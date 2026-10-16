@@ -1,0 +1,3809 @@
+TX: SYN          seq=63          bytes=0
+RX: SYN+ACK      seq=64          bytes=0
+TX: ACK          seq=65          bytes=0
+TX: DATA         seq=65          bytes=16
+RX: ACK          seq=81          bytes=0
+TX: SYN          seq=38          bytes=0
+RX: SYN+ACK      seq=39          bytes=0
+TX: ACK          seq=40          bytes=0
+TX: DATA         seq=40          bytes=16
+RX: ACK          seq=56          bytes=0
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=38          bytes=0
+TX: SYN          seq=90          bytes=0
+RX: SYN+ACK      seq=91          bytes=0
+TX: ACK          seq=92          bytes=0
+TX: DATA         seq=92          bytes=16
+RX: ACK          seq=108         bytes=0
+TX: DATA         seq=108         bytes=16
+TX: DATA         seq=124         bytes=16
+TX: DATA         seq=140         bytes=16
+TX: DATA         seq=156         bytes=16
+TX: DATA         seq=172         bytes=16
+TX: DATA         seq=188         bytes=16
+TX: DATA         seq=204         bytes=16
+TX: DATA         seq=220         bytes=16
+RX: ACK          seq=124         bytes=0
+TX: DATA         seq=236         bytes=16
+RX: ACK          seq=140         bytes=0
+TX: DATA         seq=252         bytes=16
+RX: ACK          seq=156         bytes=0
+TX: DATA         seq=268         bytes=16
+RX: ACK          seq=172         bytes=0
+TX: DATA         seq=284         bytes=16
+RX: ACK          seq=188         bytes=0
+TX: DATA         seq=300         bytes=16
+RX: ACK          seq=204         bytes=0
+TX: DATA         seq=316         bytes=16
+RX: ACK          seq=220         bytes=0
+TX: DATA         seq=332         bytes=16
+RX: ACK          seq=236         bytes=0
+TX: DATA         seq=348         bytes=16
+RX: ACK          seq=252         bytes=0
+TX: DATA         seq=364         bytes=16
+RX: ACK          seq=268         bytes=0
+TX: DATA         seq=380         bytes=16
+RX: ACK          seq=284         bytes=0
+TX: DATA         seq=396         bytes=16
+RX: ACK          seq=300         bytes=0
+TX: DATA         seq=412         bytes=16
+RX: ACK          seq=316         bytes=0
+TX: DATA         seq=428         bytes=16
+RX: ACK          seq=332         bytes=0
+TX: DATA         seq=444         bytes=16
+RX: ACK          seq=348         bytes=0
+TX: DATA         seq=460         bytes=16
+RX: ACK          seq=364         bytes=0
+TX: DATA         seq=476         bytes=16
+RX: ACK          seq=380         bytes=0
+TX: DATA         seq=492         bytes=16
+RX: ACK          seq=396         bytes=0
+TX: DATA         seq=508         bytes=16
+RX: ACK          seq=412         bytes=0
+TX: DATA         seq=524         bytes=16
+RX: ACK          seq=428         bytes=0
+TX: DATA         seq=540         bytes=16
+RX: ACK          seq=444         bytes=0
+TX: DATA         seq=556         bytes=16
+RX: ACK          seq=460         bytes=0
+TX: DATA         seq=572         bytes=16
+RX: ACK          seq=476         bytes=0
+TX: DATA         seq=588         bytes=16
+RX: ACK          seq=492         bytes=0
+TX: DATA         seq=604         bytes=16
+RX: ACK          seq=508         bytes=0
+TX: DATA         seq=620         bytes=16
+RX: ACK          seq=524         bytes=0
+TX: DATA         seq=636         bytes=16
+RX: ACK          seq=540         bytes=0
+TX: DATA         seq=652         bytes=16
+RX: ACK          seq=556         bytes=0
+TX: DATA         seq=668         bytes=16
+RX: ACK          seq=572         bytes=0
+TX: DATA         seq=684         bytes=16
+RX: ACK          seq=588         bytes=0
+TX: DATA         seq=700         bytes=16
+RX: ACK          seq=604         bytes=0
+TX: DATA         seq=716         bytes=16
+RX: ACK          seq=620         bytes=0
+TX: DATA         seq=732         bytes=16
+RX: ACK          seq=636         bytes=0
+TX: DATA         seq=748         bytes=16
+RX: ACK          seq=652         bytes=0
+TX: DATA         seq=764         bytes=16
+RX: ACK          seq=668         bytes=0
+TX: DATA         seq=780         bytes=16
+RX: ACK          seq=684         bytes=0
+TX: DATA         seq=796         bytes=16
+RX: ACK          seq=700         bytes=0
+TX: DATA         seq=812         bytes=16
+RX: ACK          seq=716         bytes=0
+TX: DATA         seq=828         bytes=16
+RX: ACK          seq=732         bytes=0
+TX: DATA         seq=844         bytes=16
+RX: ACK          seq=748         bytes=0
+TX: DATA         seq=860         bytes=16
+RX: ACK          seq=764         bytes=0
+TX: DATA         seq=876         bytes=16
+RX: ACK          seq=780         bytes=0
+TX: DATA         seq=892         bytes=16
+RX: ACK          seq=796         bytes=0
+TX: DATA         seq=908         bytes=16
+RX: ACK          seq=812         bytes=0
+TX: DATA         seq=924         bytes=16
+RX: ACK          seq=828         bytes=0
+TX: DATA         seq=940         bytes=16
+RX: ACK          seq=844         bytes=0
+TX: DATA         seq=956         bytes=16
+RX: ACK          seq=860         bytes=0
+TX: DATA         seq=972         bytes=16
+RX: ACK          seq=876         bytes=0
+TX: DATA         seq=988         bytes=16
+RX: ACK          seq=892         bytes=0
+TX: DATA         seq=1004        bytes=16
+RX: ACK          seq=908         bytes=0
+TX: DATA         seq=1020        bytes=16
+RX: ACK          seq=924         bytes=0
+TX: DATA         seq=1036        bytes=16
+RX: ACK          seq=940         bytes=0
+TX: DATA         seq=1052        bytes=16
+RX: ACK          seq=956         bytes=0
+TX: DATA         seq=1068        bytes=16
+RX: ACK          seq=972         bytes=0
+TX: DATA         seq=1084        bytes=16
+RX: ACK          seq=988         bytes=0
+TX: DATA         seq=1100        bytes=16
+RX: ACK          seq=1004        bytes=0
+TX: DATA         seq=1116        bytes=16
+RX: ACK          seq=1020        bytes=0
+TX: DATA         seq=1132        bytes=16
+RX: ACK          seq=1036        bytes=0
+TX: DATA         seq=1148        bytes=16
+RX: ACK          seq=1052        bytes=0
+TX: DATA         seq=1164        bytes=16
+RX: ACK          seq=1068        bytes=0
+TX: DATA         seq=1180        bytes=16
+RX: ACK          seq=1084        bytes=0
+TX: DATA         seq=1196        bytes=16
+RX: ACK          seq=1100        bytes=0
+TX: DATA         seq=1212        bytes=16
+RX: ACK          seq=1116        bytes=0
+TX: DATA         seq=1228        bytes=16
+RX: ACK          seq=1132        bytes=0
+TX: DATA         seq=1244        bytes=16
+RX: ACK          seq=1148        bytes=0
+TX: DATA         seq=1260        bytes=16
+RX: ACK          seq=1164        bytes=0
+TX: DATA         seq=1276        bytes=16
+RX: ACK          seq=1180        bytes=0
+TX: DATA         seq=1292        bytes=16
+RX: ACK          seq=1196        bytes=0
+TX: DATA         seq=1308        bytes=16
+RX: ACK          seq=1212        bytes=0
+TX: DATA         seq=1324        bytes=16
+RX: ACK          seq=1228        bytes=0
+TX: DATA         seq=1340        bytes=16
+RX: ACK          seq=1244        bytes=0
+TX: DATA         seq=1356        bytes=16
+RX: ACK          seq=1260        bytes=0
+TX: DATA         seq=1372        bytes=16
+RX: ACK          seq=1276        bytes=0
+TX: DATA         seq=1388        bytes=16
+RX: ACK          seq=1292        bytes=0
+TX: DATA         seq=1404        bytes=16
+RX: ACK          seq=1308        bytes=0
+TX: DATA         seq=1420        bytes=16
+RX: ACK          seq=1324        bytes=0
+TX: DATA         seq=1436        bytes=16
+RX: ACK          seq=1340        bytes=0
+TX: DATA         seq=1452        bytes=16
+RX: ACK          seq=1356        bytes=0
+TX: DATA         seq=1468        bytes=16
+RX: ACK          seq=1372        bytes=0
+TX: DATA         seq=1484        bytes=16
+RX: ACK          seq=1388        bytes=0
+TX: DATA         seq=1500        bytes=16
+RX: ACK          seq=1404        bytes=0
+TX: DATA         seq=1516        bytes=16
+RX: ACK          seq=1420        bytes=0
+TX: DATA         seq=1532        bytes=16
+RX: ACK          seq=1436        bytes=0
+TX: DATA         seq=1548        bytes=6
+RX: ACK          seq=1452        bytes=0
+RX: ACK          seq=1468        bytes=0
+RX: ACK          seq=1484        bytes=0
+RX: ACK          seq=1500        bytes=0
+RX: ACK          seq=1516        bytes=0
+RX: ACK          seq=1532        bytes=0
+RX: ACK          seq=1548        bytes=0
+RX: ACK          seq=1554        bytes=0
+TX: FIN          seq=1554        bytes=0
+RX: ACK+FIN      seq=1555        bytes=0
+TX: ACK          seq=1556        bytes=0
+TX: ACK          seq=1556        bytes=0
+TX: ACK          seq=1556        bytes=0
+TX: SYN          seq=46          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=46          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=46          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=46          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=46          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=46          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=46          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=46          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=46          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=46          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=46          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=46          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=46          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=46          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=46          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=46          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=46          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=46          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=46          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=46          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=46          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=46          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=46          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=46          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=46          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=46          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=46          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=46          bytes=0
+TX: SYN          seq=95          bytes=0
+RX: SYN+ACK      seq=96          bytes=0
+TX: ACK          seq=97          bytes=0
+TX: DATA         seq=97          bytes=16
+RX: ACK          seq=113         bytes=0
+TX: SYN          seq=93          bytes=0
+RX: SYN+ACK      seq=94          bytes=0
+TX: ACK          seq=95          bytes=0
+TX: DATA         seq=95          bytes=16
+RX: ACK          seq=111         bytes=0
+[DEBUG CC] INICIO | Estado: SS | cwnd: 8 | ssthresh: None
+TX: DATA         seq=111         bytes=8
+TX: DATA         seq=119         bytes=8
+TX: DATA         seq=127         bytes=8
+TX: DATA         seq=135         bytes=8
+TX: DATA         seq=143         bytes=8
+TX: DATA         seq=151         bytes=8
+TX: DATA         seq=159         bytes=8
+TX: DATA         seq=167         bytes=8
+RX: ACK          seq=119         bytes=0
+[DEBUG CC] EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: None
+TX: DATA         seq=175         bytes=8
+TX: DATA         seq=183         bytes=8
+TX: DATA         seq=191         bytes=8
+TX: DATA         seq=199         bytes=8
+TX: DATA         seq=207         bytes=8
+TX: DATA         seq=215         bytes=8
+TX: DATA         seq=223         bytes=8
+TX: DATA         seq=231         bytes=8
+TX: DATA         seq=239         bytes=8
+RX: ACK          seq=127         bytes=0
+[DEBUG CC] EVENTO: ACK | Estado: SS | cwnd: 24 | ssthresh: None
+TX: DATA         seq=247         bytes=8
+TX: DATA         seq=255         bytes=8
+TX: DATA         seq=263         bytes=8
+TX: DATA         seq=271         bytes=8
+TX: DATA         seq=279         bytes=8
+TX: DATA         seq=287         bytes=8
+TX: DATA         seq=295         bytes=8
+TX: DATA         seq=303         bytes=8
+TX: DATA         seq=311         bytes=8
+RX: ACK          seq=135         bytes=0
+[DEBUG CC] EVENTO: ACK | Estado: SS | cwnd: 32 | ssthresh: None
+TX: DATA         seq=319         bytes=8
+TX: DATA         seq=327         bytes=8
+TX: DATA         seq=335         bytes=8
+TX: DATA         seq=343         bytes=8
+TX: DATA         seq=351         bytes=8
+TX: DATA         seq=359         bytes=8
+TX: DATA         seq=367         bytes=8
+TX: DATA         seq=375         bytes=1
+RX: ACK          seq=143         bytes=0
+[DEBUG CC] EVENTO: ACK | Estado: SS | cwnd: 40 | ssthresh: None
+RX: ACK          seq=151         bytes=0
+[DEBUG CC] EVENTO: ACK | Estado: SS | cwnd: 48 | ssthresh: None
+RX: ACK          seq=159         bytes=0
+[DEBUG CC] EVENTO: ACK | Estado: SS | cwnd: 56 | ssthresh: None
+RX: ACK          seq=167         bytes=0
+[DEBUG CC] EVENTO: ACK | Estado: SS | cwnd: 64 | ssthresh: None
+RX: ACK          seq=175         bytes=0
+[DEBUG CC] EVENTO: ACK | Estado: SS | cwnd: 72 | ssthresh: None
+RX: ACK          seq=183         bytes=0
+[DEBUG CC] EVENTO: ACK | Estado: SS | cwnd: 80 | ssthresh: None
+RX: ACK          seq=191         bytes=0
+[DEBUG CC] EVENTO: ACK | Estado: SS | cwnd: 88 | ssthresh: None
+RX: ACK          seq=199         bytes=0
+[DEBUG CC] EVENTO: ACK | Estado: SS | cwnd: 96 | ssthresh: None
+RX: ACK          seq=207         bytes=0
+[DEBUG CC] EVENTO: ACK | Estado: SS | cwnd: 104 | ssthresh: None
+RX: ACK          seq=215         bytes=0
+[DEBUG CC] EVENTO: ACK | Estado: SS | cwnd: 112 | ssthresh: None
+RX: ACK          seq=223         bytes=0
+[DEBUG CC] EVENTO: ACK | Estado: SS | cwnd: 120 | ssthresh: None
+RX: ACK          seq=231         bytes=0
+[DEBUG CC] EVENTO: ACK | Estado: SS | cwnd: 128 | ssthresh: None
+RX: ACK          seq=239         bytes=0
+[DEBUG CC] EVENTO: ACK | Estado: SS | cwnd: 136 | ssthresh: None
+RX: ACK          seq=247         bytes=0
+[DEBUG CC] EVENTO: ACK | Estado: SS | cwnd: 144 | ssthresh: None
+RX: ACK          seq=255         bytes=0
+[DEBUG CC] EVENTO: ACK | Estado: SS | cwnd: 152 | ssthresh: None
+RX: ACK          seq=263         bytes=0
+[DEBUG CC] EVENTO: ACK | Estado: SS | cwnd: 160 | ssthresh: None
+RX: ACK          seq=271         bytes=0
+[DEBUG CC] EVENTO: ACK | Estado: SS | cwnd: 168 | ssthresh: None
+RX: ACK          seq=279         bytes=0
+[DEBUG CC] EVENTO: ACK | Estado: SS | cwnd: 176 | ssthresh: None
+RX: ACK          seq=287         bytes=0
+[DEBUG CC] EVENTO: ACK | Estado: SS | cwnd: 184 | ssthresh: None
+RX: ACK          seq=295         bytes=0
+[DEBUG CC] EVENTO: ACK | Estado: SS | cwnd: 192 | ssthresh: None
+RX: ACK          seq=303         bytes=0
+[DEBUG CC] EVENTO: ACK | Estado: SS | cwnd: 200 | ssthresh: None
+RX: ACK          seq=311         bytes=0
+[DEBUG CC] EVENTO: ACK | Estado: SS | cwnd: 208 | ssthresh: None
+RX: ACK          seq=319         bytes=0
+[DEBUG CC] EVENTO: ACK | Estado: SS | cwnd: 216 | ssthresh: None
+RX: ACK          seq=327         bytes=0
+[DEBUG CC] EVENTO: ACK | Estado: SS | cwnd: 224 | ssthresh: None
+RX: ACK          seq=335         bytes=0
+[DEBUG CC] EVENTO: ACK | Estado: SS | cwnd: 232 | ssthresh: None
+RX: ACK          seq=343         bytes=0
+[DEBUG CC] EVENTO: ACK | Estado: SS | cwnd: 240 | ssthresh: None
+RX: ACK          seq=351         bytes=0
+[DEBUG CC] EVENTO: ACK | Estado: SS | cwnd: 248 | ssthresh: None
+RX: ACK          seq=359         bytes=0
+[DEBUG CC] EVENTO: ACK | Estado: SS | cwnd: 256 | ssthresh: None
+RX: ACK          seq=367         bytes=0
+[DEBUG CC] EVENTO: ACK | Estado: SS | cwnd: 264 | ssthresh: None
+RX: ACK          seq=375         bytes=0
+[DEBUG CC] EVENTO: ACK | Estado: SS | cwnd: 272 | ssthresh: None
+RX: ACK          seq=376         bytes=0
+[DEBUG CC] EVENTO: ACK | Estado: SS | cwnd: 280 | ssthresh: None
+TX: FIN          seq=376         bytes=0
+RX: ACK+FIN      seq=377         bytes=0
+TX: ACK          seq=378         bytes=0
+TX: ACK          seq=378         bytes=0
+TX: ACK          seq=378         bytes=0
+TX: SYN          seq=64          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=64          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=64          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=64          bytes=0
+TX: SYN          seq=41          bytes=0
+RX: SYN+ACK      seq=42          bytes=0
+TX: ACK          seq=43          bytes=0
+TX: DATA         seq=43          bytes=16
+RX: ACK          seq=59          bytes=0
+(debug cc) INICIO | Estado: SS | cwnd: 8 | ssthresh: None
+TX: DATA         seq=59          bytes=8
+TX: DATA         seq=67          bytes=8
+TX: DATA         seq=75          bytes=8
+TX: DATA         seq=83          bytes=8
+TX: DATA         seq=91          bytes=8
+TX: DATA         seq=99          bytes=8
+TX: DATA         seq=107         bytes=8
+TX: DATA         seq=115         bytes=8
+RX: ACK          seq=67          bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: None
+TX: DATA         seq=123         bytes=8
+TX: DATA         seq=131         bytes=8
+TX: DATA         seq=139         bytes=8
+TX: DATA         seq=147         bytes=8
+TX: DATA         seq=155         bytes=8
+TX: DATA         seq=163         bytes=8
+TX: DATA         seq=171         bytes=8
+TX: DATA         seq=179         bytes=8
+TX: DATA         seq=187         bytes=8
+RX: ACK          seq=75          bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 24 | ssthresh: None
+TX: DATA         seq=195         bytes=8
+TX: DATA         seq=203         bytes=8
+TX: DATA         seq=211         bytes=8
+TX: DATA         seq=219         bytes=8
+TX: DATA         seq=227         bytes=8
+TX: DATA         seq=235         bytes=8
+TX: DATA         seq=243         bytes=8
+TX: DATA         seq=251         bytes=8
+TX: DATA         seq=259         bytes=8
+RX: ACK          seq=83          bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 32 | ssthresh: None
+TX: DATA         seq=267         bytes=8
+TX: DATA         seq=275         bytes=8
+TX: DATA         seq=283         bytes=8
+TX: DATA         seq=291         bytes=8
+TX: DATA         seq=299         bytes=8
+TX: DATA         seq=307         bytes=8
+TX: DATA         seq=315         bytes=8
+TX: DATA         seq=323         bytes=1
+RX: ACK          seq=91          bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 40 | ssthresh: None
+RX: ACK          seq=99          bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 48 | ssthresh: None
+RX: ACK          seq=107         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 56 | ssthresh: None
+RX: ACK          seq=115         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 64 | ssthresh: None
+RX: ACK          seq=123         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 72 | ssthresh: None
+RX: ACK          seq=131         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 80 | ssthresh: None
+RX: ACK          seq=139         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 88 | ssthresh: None
+RX: ACK          seq=147         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 96 | ssthresh: None
+RX: ACK          seq=155         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 104 | ssthresh: None
+RX: ACK          seq=163         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 112 | ssthresh: None
+RX: ACK          seq=171         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 120 | ssthresh: None
+RX: ACK          seq=179         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 128 | ssthresh: None
+RX: ACK          seq=187         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 136 | ssthresh: None
+RX: ACK          seq=195         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 144 | ssthresh: None
+RX: ACK          seq=203         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 152 | ssthresh: None
+RX: ACK          seq=211         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 160 | ssthresh: None
+RX: ACK          seq=219         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 168 | ssthresh: None
+RX: ACK          seq=227         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 176 | ssthresh: None
+RX: ACK          seq=235         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 184 | ssthresh: None
+RX: ACK          seq=243         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 192 | ssthresh: None
+RX: ACK          seq=251         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 200 | ssthresh: None
+RX: ACK          seq=259         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 208 | ssthresh: None
+RX: ACK          seq=267         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 216 | ssthresh: None
+RX: ACK          seq=275         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 224 | ssthresh: None
+RX: ACK          seq=283         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 232 | ssthresh: None
+RX: ACK          seq=291         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 240 | ssthresh: None
+RX: ACK          seq=299         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 248 | ssthresh: None
+RX: ACK          seq=307         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 256 | ssthresh: None
+RX: ACK          seq=315         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 264 | ssthresh: None
+RX: ACK          seq=323         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 272 | ssthresh: None
+RX: ACK          seq=324         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 280 | ssthresh: None
+TX: FIN          seq=324         bytes=0
+RX: ACK+FIN      seq=325         bytes=0
+TX: ACK          seq=326         bytes=0
+TX: ACK          seq=326         bytes=0
+TX: ACK          seq=326         bytes=0
+TX: SYN          seq=59          bytes=0
+RX: SYN+ACK      seq=60          bytes=0
+TX: ACK          seq=61          bytes=0
+TX: DATA         seq=61          bytes=16
+RX: ACK          seq=77          bytes=0
+(debug cc) INICIO | Estado: SS | cwnd: 8 | ssthresh: None
+TX: DATA         seq=77          bytes=8
+TX: DATA         seq=85          bytes=8
+TX: DATA         seq=93          bytes=8
+TX: DATA         seq=101         bytes=8
+TX: DATA         seq=109         bytes=8
+TX: DATA         seq=117         bytes=8
+TX: DATA         seq=125         bytes=8
+TX: DATA         seq=133         bytes=8
+RX: ACK          seq=85          bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: None
+TX: DATA         seq=141         bytes=8
+TX: DATA         seq=149         bytes=8
+TX: DATA         seq=157         bytes=8
+TX: DATA         seq=165         bytes=8
+TX: DATA         seq=173         bytes=8
+TX: DATA         seq=181         bytes=8
+TX: DATA         seq=189         bytes=8
+TX: DATA         seq=197         bytes=8
+TX: DATA         seq=205         bytes=8
+RX: ACK          seq=93          bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 24 | ssthresh: None
+TX: DATA         seq=213         bytes=8
+TX: DATA         seq=221         bytes=8
+TX: DATA         seq=229         bytes=8
+TX: DATA         seq=237         bytes=8
+TX: DATA         seq=245         bytes=8
+TX: DATA         seq=253         bytes=8
+TX: DATA         seq=261         bytes=8
+TX: DATA         seq=269         bytes=8
+TX: DATA         seq=277         bytes=8
+RX: ACK          seq=101         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 32 | ssthresh: None
+TX: DATA         seq=285         bytes=8
+TX: DATA         seq=293         bytes=8
+TX: DATA         seq=301         bytes=8
+TX: DATA         seq=309         bytes=8
+TX: DATA         seq=317         bytes=8
+TX: DATA         seq=325         bytes=8
+TX: DATA         seq=333         bytes=8
+TX: DATA         seq=341         bytes=8
+TX: DATA         seq=349         bytes=8
+RX: ACK          seq=109         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 40 | ssthresh: None
+TX: DATA         seq=357         bytes=8
+TX: DATA         seq=365         bytes=8
+TX: DATA         seq=373         bytes=8
+TX: DATA         seq=381         bytes=8
+TX: DATA         seq=389         bytes=8
+TX: DATA         seq=397         bytes=8
+TX: DATA         seq=405         bytes=8
+TX: DATA         seq=413         bytes=8
+TX: DATA         seq=421         bytes=8
+RX: ACK          seq=117         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 48 | ssthresh: None
+TX: DATA         seq=429         bytes=8
+TX: DATA         seq=437         bytes=8
+TX: DATA         seq=445         bytes=8
+TX: DATA         seq=453         bytes=8
+TX: DATA         seq=461         bytes=8
+TX: DATA         seq=469         bytes=8
+TX: DATA         seq=477         bytes=8
+TX: DATA         seq=485         bytes=8
+TX: DATA         seq=493         bytes=8
+RX: ACK          seq=125         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 56 | ssthresh: None
+TX: DATA         seq=501         bytes=8
+TX: DATA         seq=509         bytes=8
+TX: DATA         seq=517         bytes=8
+TX: DATA         seq=525         bytes=8
+TX: DATA         seq=533         bytes=8
+TX: DATA         seq=541         bytes=8
+TX: DATA         seq=549         bytes=8
+TX: DATA         seq=557         bytes=8
+TX: DATA         seq=565         bytes=8
+RX: ACK          seq=133         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 64 | ssthresh: None
+TX: DATA         seq=573         bytes=8
+TX: DATA         seq=581         bytes=8
+TX: DATA         seq=589         bytes=8
+TX: DATA         seq=597         bytes=8
+TX: DATA         seq=605         bytes=8
+TX: DATA         seq=613         bytes=8
+TX: DATA         seq=621         bytes=8
+TX: DATA         seq=629         bytes=8
+TX: DATA         seq=637         bytes=8
+RX: ACK          seq=141         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 72 | ssthresh: None
+TX: DATA         seq=645         bytes=8
+TX: DATA         seq=653         bytes=8
+TX: DATA         seq=661         bytes=8
+TX: DATA         seq=669         bytes=8
+TX: DATA         seq=677         bytes=8
+TX: DATA         seq=685         bytes=8
+TX: DATA         seq=693         bytes=8
+TX: DATA         seq=701         bytes=8
+TX: DATA         seq=709         bytes=8
+RX: ACK          seq=149         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 80 | ssthresh: None
+TX: DATA         seq=717         bytes=8
+TX: DATA         seq=725         bytes=8
+TX: DATA         seq=733         bytes=8
+TX: DATA         seq=741         bytes=8
+TX: DATA         seq=749         bytes=8
+TX: DATA         seq=757         bytes=8
+TX: DATA         seq=765         bytes=8
+TX: DATA         seq=773         bytes=8
+TX: DATA         seq=781         bytes=8
+RX: ACK          seq=157         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 88 | ssthresh: None
+TX: DATA         seq=789         bytes=8
+TX: DATA         seq=797         bytes=8
+TX: DATA         seq=805         bytes=8
+TX: DATA         seq=813         bytes=8
+TX: DATA         seq=821         bytes=8
+TX: DATA         seq=829         bytes=8
+TX: DATA         seq=837         bytes=8
+TX: DATA         seq=845         bytes=8
+TX: DATA         seq=853         bytes=8
+RX: ACK          seq=165         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 96 | ssthresh: None
+TX: DATA         seq=861         bytes=8
+TX: DATA         seq=869         bytes=8
+TX: DATA         seq=877         bytes=8
+TX: DATA         seq=885         bytes=8
+TX: DATA         seq=893         bytes=8
+TX: DATA         seq=901         bytes=8
+TX: DATA         seq=909         bytes=8
+TX: DATA         seq=917         bytes=8
+TX: DATA         seq=925         bytes=8
+RX: ACK          seq=173         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 104 | ssthresh: None
+TX: DATA         seq=933         bytes=8
+TX: DATA         seq=941         bytes=8
+TX: DATA         seq=949         bytes=8
+TX: DATA         seq=957         bytes=8
+TX: DATA         seq=965         bytes=8
+TX: DATA         seq=973         bytes=8
+TX: DATA         seq=981         bytes=8
+TX: DATA         seq=989         bytes=8
+TX: DATA         seq=997         bytes=8
+RX: ACK          seq=181         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 112 | ssthresh: None
+TX: DATA         seq=1005        bytes=8
+TX: DATA         seq=1013        bytes=8
+TX: DATA         seq=1021        bytes=8
+TX: DATA         seq=1029        bytes=8
+TX: DATA         seq=1037        bytes=8
+TX: DATA         seq=1045        bytes=8
+TX: DATA         seq=1053        bytes=8
+TX: DATA         seq=1061        bytes=8
+TX: DATA         seq=1069        bytes=8
+RX: ACK          seq=189         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 120 | ssthresh: None
+TX: DATA         seq=1077        bytes=8
+TX: DATA         seq=1085        bytes=8
+TX: DATA         seq=1093        bytes=8
+TX: DATA         seq=1101        bytes=8
+TX: DATA         seq=1109        bytes=8
+TX: DATA         seq=1117        bytes=8
+TX: DATA         seq=1125        bytes=8
+TX: DATA         seq=1133        bytes=8
+TX: DATA         seq=1141        bytes=8
+RX: ACK          seq=197         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 128 | ssthresh: None
+TX: DATA         seq=1149        bytes=8
+TX: DATA         seq=1157        bytes=8
+TX: DATA         seq=1165        bytes=8
+TX: DATA         seq=1173        bytes=8
+TX: DATA         seq=1181        bytes=8
+TX: DATA         seq=1189        bytes=8
+TX: DATA         seq=1197        bytes=8
+TX: DATA         seq=1205        bytes=8
+TX: DATA         seq=1213        bytes=8
+RX: ACK          seq=205         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 136 | ssthresh: None
+TX: DATA         seq=1221        bytes=8
+TX: DATA         seq=1229        bytes=8
+TX: DATA         seq=1237        bytes=8
+TX: DATA         seq=1245        bytes=8
+TX: DATA         seq=1253        bytes=8
+TX: DATA         seq=1261        bytes=8
+TX: DATA         seq=1269        bytes=8
+TX: DATA         seq=1277        bytes=8
+TX: DATA         seq=1285        bytes=8
+RX: ACK          seq=213         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 144 | ssthresh: None
+TX: DATA         seq=1293        bytes=8
+TX: DATA         seq=1301        bytes=8
+TX: DATA         seq=1309        bytes=8
+TX: DATA         seq=1317        bytes=8
+TX: DATA         seq=1325        bytes=8
+TX: DATA         seq=1333        bytes=8
+TX: DATA         seq=1341        bytes=8
+TX: DATA         seq=1349        bytes=8
+TX: DATA         seq=1357        bytes=8
+RX: ACK          seq=221         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 152 | ssthresh: None
+TX: DATA         seq=1365        bytes=8
+TX: DATA         seq=1373        bytes=8
+TX: DATA         seq=1381        bytes=8
+TX: DATA         seq=1389        bytes=8
+TX: DATA         seq=1397        bytes=8
+TX: DATA         seq=1405        bytes=8
+TX: DATA         seq=1413        bytes=8
+TX: DATA         seq=1421        bytes=8
+TX: DATA         seq=1429        bytes=8
+RX: ACK          seq=229         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 160 | ssthresh: None
+TX: DATA         seq=1437        bytes=8
+TX: DATA         seq=1445        bytes=8
+TX: DATA         seq=1453        bytes=8
+TX: DATA         seq=1461        bytes=8
+TX: DATA         seq=1469        bytes=8
+TX: DATA         seq=1477        bytes=8
+TX: DATA         seq=1485        bytes=8
+TX: DATA         seq=1493        bytes=8
+TX: DATA         seq=1501        bytes=8
+RX: ACK          seq=237         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 168 | ssthresh: None
+TX: DATA         seq=1509        bytes=8
+TX: DATA         seq=1517        bytes=8
+TX: DATA         seq=1525        bytes=8
+TX: DATA         seq=1533        bytes=8
+TX: DATA         seq=1541        bytes=8
+TX: DATA         seq=1549        bytes=8
+TX: DATA         seq=1557        bytes=8
+TX: DATA         seq=1565        bytes=8
+TX: DATA         seq=1573        bytes=8
+RX: ACK          seq=245         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 176 | ssthresh: None
+TX: DATA         seq=1581        bytes=8
+TX: DATA         seq=1589        bytes=8
+TX: DATA         seq=1597        bytes=8
+TX: DATA         seq=1605        bytes=8
+TX: DATA         seq=1613        bytes=8
+TX: DATA         seq=1621        bytes=8
+TX: DATA         seq=1629        bytes=8
+TX: DATA         seq=1637        bytes=8
+TX: DATA         seq=1645        bytes=8
+RX: ACK          seq=253         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 184 | ssthresh: None
+TX: DATA         seq=1653        bytes=8
+TX: DATA         seq=1661        bytes=8
+TX: DATA         seq=1669        bytes=8
+TX: DATA         seq=1677        bytes=8
+TX: DATA         seq=1685        bytes=8
+TX: DATA         seq=1693        bytes=8
+TX: DATA         seq=1701        bytes=8
+TX: DATA         seq=1709        bytes=8
+TX: DATA         seq=1717        bytes=8
+RX: ACK          seq=261         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 192 | ssthresh: None
+TX: DATA         seq=1725        bytes=8
+TX: DATA         seq=1733        bytes=8
+TX: DATA         seq=1741        bytes=8
+TX: DATA         seq=1749        bytes=8
+TX: DATA         seq=1757        bytes=8
+TX: DATA         seq=1765        bytes=8
+TX: DATA         seq=1773        bytes=8
+TX: DATA         seq=1781        bytes=8
+TX: DATA         seq=1789        bytes=8
+RX: ACK          seq=269         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 200 | ssthresh: None
+TX: DATA         seq=1797        bytes=8
+TX: DATA         seq=1805        bytes=8
+TX: DATA         seq=1813        bytes=8
+TX: DATA         seq=1821        bytes=8
+TX: DATA         seq=1829        bytes=8
+TX: DATA         seq=1837        bytes=8
+TX: DATA         seq=1845        bytes=8
+TX: DATA         seq=1853        bytes=8
+TX: DATA         seq=1861        bytes=8
+RX: ACK          seq=277         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 208 | ssthresh: None
+TX: DATA         seq=1869        bytes=8
+TX: DATA         seq=1877        bytes=8
+TX: DATA         seq=1885        bytes=8
+TX: DATA         seq=1893        bytes=8
+TX: DATA         seq=1901        bytes=8
+TX: DATA         seq=1909        bytes=8
+TX: DATA         seq=1917        bytes=8
+TX: DATA         seq=1925        bytes=8
+TX: DATA         seq=1933        bytes=8
+RX: ACK          seq=285         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 216 | ssthresh: None
+TX: DATA         seq=1941        bytes=8
+TX: DATA         seq=1949        bytes=8
+TX: DATA         seq=1957        bytes=8
+TX: DATA         seq=1965        bytes=8
+TX: DATA         seq=1973        bytes=8
+TX: DATA         seq=1981        bytes=8
+TX: DATA         seq=1989        bytes=8
+TX: DATA         seq=1997        bytes=8
+TX: DATA         seq=2005        bytes=8
+RX: ACK          seq=293         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 224 | ssthresh: None
+TX: DATA         seq=2013        bytes=8
+TX: DATA         seq=2021        bytes=8
+TX: DATA         seq=2029        bytes=8
+TX: DATA         seq=2037        bytes=8
+TX: DATA         seq=2045        bytes=8
+TX: DATA         seq=2053        bytes=8
+TX: DATA         seq=2061        bytes=8
+TX: DATA         seq=2069        bytes=8
+RX: ACK          seq=301         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 232 | ssthresh: None
+RX: ACK          seq=309         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 240 | ssthresh: None
+RX: ACK          seq=317         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 248 | ssthresh: None
+RX: ACK          seq=325         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 256 | ssthresh: None
+RX: ACK          seq=333         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 264 | ssthresh: None
+RX: ACK          seq=341         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 272 | ssthresh: None
+RX: ACK          seq=349         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 280 | ssthresh: None
+RX: ACK          seq=357         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 288 | ssthresh: None
+RX: ACK          seq=365         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 296 | ssthresh: None
+RX: ACK          seq=373         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 304 | ssthresh: None
+RX: ACK          seq=381         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 312 | ssthresh: None
+RX: ACK          seq=389         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 320 | ssthresh: None
+RX: ACK          seq=397         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 328 | ssthresh: None
+RX: ACK          seq=405         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 336 | ssthresh: None
+RX: ACK          seq=413         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 344 | ssthresh: None
+RX: ACK          seq=421         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 352 | ssthresh: None
+RX: ACK          seq=429         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 360 | ssthresh: None
+RX: ACK          seq=437         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 368 | ssthresh: None
+RX: ACK          seq=445         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 376 | ssthresh: None
+RX: ACK          seq=453         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 384 | ssthresh: None
+RX: ACK          seq=461         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 392 | ssthresh: None
+RX: ACK          seq=469         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 400 | ssthresh: None
+RX: ACK          seq=477         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 408 | ssthresh: None
+RX: ACK          seq=485         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 416 | ssthresh: None
+RX: ACK          seq=493         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 424 | ssthresh: None
+RX: ACK          seq=501         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 432 | ssthresh: None
+RX: ACK          seq=509         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 440 | ssthresh: None
+RX: ACK          seq=517         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 448 | ssthresh: None
+RX: ACK          seq=525         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 456 | ssthresh: None
+RX: ACK          seq=533         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 464 | ssthresh: None
+RX: ACK          seq=541         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 472 | ssthresh: None
+RX: ACK          seq=549         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 480 | ssthresh: None
+RX: ACK          seq=557         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 488 | ssthresh: None
+RX: ACK          seq=565         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 496 | ssthresh: None
+RX: ACK          seq=573         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 504 | ssthresh: None
+RX: ACK          seq=581         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 512 | ssthresh: None
+RX: ACK          seq=589         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 520 | ssthresh: None
+RX: ACK          seq=597         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 528 | ssthresh: None
+RX: ACK          seq=605         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 536 | ssthresh: None
+RX: ACK          seq=613         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 544 | ssthresh: None
+RX: ACK          seq=621         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 552 | ssthresh: None
+RX: ACK          seq=629         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 560 | ssthresh: None
+RX: ACK          seq=637         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 568 | ssthresh: None
+RX: ACK          seq=645         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 576 | ssthresh: None
+RX: ACK          seq=653         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 584 | ssthresh: None
+RX: ACK          seq=661         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 592 | ssthresh: None
+RX: ACK          seq=669         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 600 | ssthresh: None
+RX: ACK          seq=677         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 608 | ssthresh: None
+RX: ACK          seq=685         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 616 | ssthresh: None
+RX: ACK          seq=693         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 624 | ssthresh: None
+RX: ACK          seq=701         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 632 | ssthresh: None
+RX: ACK          seq=709         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 640 | ssthresh: None
+RX: ACK          seq=717         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 648 | ssthresh: None
+RX: ACK          seq=725         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 656 | ssthresh: None
+RX: ACK          seq=733         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 664 | ssthresh: None
+RX: ACK          seq=741         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 672 | ssthresh: None
+RX: ACK          seq=749         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 680 | ssthresh: None
+RX: ACK          seq=757         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 688 | ssthresh: None
+RX: ACK          seq=765         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 696 | ssthresh: None
+RX: ACK          seq=773         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 704 | ssthresh: None
+RX: ACK          seq=781         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 712 | ssthresh: None
+RX: ACK          seq=789         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 720 | ssthresh: None
+RX: ACK          seq=797         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 728 | ssthresh: None
+RX: ACK          seq=805         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 736 | ssthresh: None
+RX: ACK          seq=813         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 744 | ssthresh: None
+RX: ACK          seq=821         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 752 | ssthresh: None
+RX: ACK          seq=829         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 760 | ssthresh: None
+RX: ACK          seq=837         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 768 | ssthresh: None
+RX: ACK          seq=845         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 776 | ssthresh: None
+RX: ACK          seq=853         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 784 | ssthresh: None
+RX: ACK          seq=861         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 792 | ssthresh: None
+RX: ACK          seq=869         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 800 | ssthresh: None
+RX: ACK          seq=877         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 808 | ssthresh: None
+RX: ACK          seq=885         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 816 | ssthresh: None
+RX: ACK          seq=893         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 824 | ssthresh: None
+RX: ACK          seq=901         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 832 | ssthresh: None
+RX: ACK          seq=909         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 840 | ssthresh: None
+RX: ACK          seq=917         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 848 | ssthresh: None
+RX: ACK          seq=925         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 856 | ssthresh: None
+RX: ACK          seq=933         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 864 | ssthresh: None
+RX: ACK          seq=941         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 872 | ssthresh: None
+RX: ACK          seq=949         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 880 | ssthresh: None
+RX: ACK          seq=957         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 888 | ssthresh: None
+RX: ACK          seq=965         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 896 | ssthresh: None
+RX: ACK          seq=973         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 904 | ssthresh: None
+RX: ACK          seq=981         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 912 | ssthresh: None
+RX: ACK          seq=989         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 920 | ssthresh: None
+RX: ACK          seq=997         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 928 | ssthresh: None
+RX: ACK          seq=1005        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 936 | ssthresh: None
+RX: ACK          seq=1013        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 944 | ssthresh: None
+RX: ACK          seq=1021        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 952 | ssthresh: None
+RX: ACK          seq=1029        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 960 | ssthresh: None
+RX: ACK          seq=1037        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 968 | ssthresh: None
+RX: ACK          seq=1045        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 976 | ssthresh: None
+RX: ACK          seq=1053        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 984 | ssthresh: None
+RX: ACK          seq=1061        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 992 | ssthresh: None
+RX: ACK          seq=1069        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1000 | ssthresh: None
+RX: ACK          seq=1077        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1008 | ssthresh: None
+RX: ACK          seq=1085        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1016 | ssthresh: None
+RX: ACK          seq=1093        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1024 | ssthresh: None
+RX: ACK          seq=1101        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1032 | ssthresh: None
+RX: ACK          seq=1109        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1040 | ssthresh: None
+RX: ACK          seq=1117        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1048 | ssthresh: None
+RX: ACK          seq=1125        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1056 | ssthresh: None
+RX: ACK          seq=1133        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1064 | ssthresh: None
+RX: ACK          seq=1141        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1072 | ssthresh: None
+RX: ACK          seq=1149        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1080 | ssthresh: None
+RX: ACK          seq=1157        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1088 | ssthresh: None
+RX: ACK          seq=1165        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1096 | ssthresh: None
+RX: ACK          seq=1173        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1104 | ssthresh: None
+RX: ACK          seq=1181        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1112 | ssthresh: None
+RX: ACK          seq=1189        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1120 | ssthresh: None
+RX: ACK          seq=1197        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1128 | ssthresh: None
+RX: ACK          seq=1205        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1136 | ssthresh: None
+RX: ACK          seq=1213        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1144 | ssthresh: None
+RX: ACK          seq=1221        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1152 | ssthresh: None
+RX: ACK          seq=1229        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1160 | ssthresh: None
+RX: ACK          seq=1237        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1168 | ssthresh: None
+RX: ACK          seq=1245        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1176 | ssthresh: None
+RX: ACK          seq=1253        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1184 | ssthresh: None
+RX: ACK          seq=1261        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1192 | ssthresh: None
+RX: ACK          seq=1269        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1200 | ssthresh: None
+RX: ACK          seq=1277        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1208 | ssthresh: None
+RX: ACK          seq=1285        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1216 | ssthresh: None
+RX: ACK          seq=1293        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1224 | ssthresh: None
+RX: ACK          seq=1301        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1232 | ssthresh: None
+RX: ACK          seq=1309        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1240 | ssthresh: None
+RX: ACK          seq=1317        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1248 | ssthresh: None
+RX: ACK          seq=1325        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1256 | ssthresh: None
+RX: ACK          seq=1333        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1264 | ssthresh: None
+RX: ACK          seq=1341        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1272 | ssthresh: None
+RX: ACK          seq=1349        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1280 | ssthresh: None
+RX: ACK          seq=1357        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1288 | ssthresh: None
+RX: ACK          seq=1365        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1296 | ssthresh: None
+RX: ACK          seq=1373        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1304 | ssthresh: None
+RX: ACK          seq=1381        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1312 | ssthresh: None
+RX: ACK          seq=1389        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1320 | ssthresh: None
+RX: ACK          seq=1397        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1328 | ssthresh: None
+RX: ACK          seq=1405        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1336 | ssthresh: None
+RX: ACK          seq=1413        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1344 | ssthresh: None
+RX: ACK          seq=1421        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1352 | ssthresh: None
+RX: ACK          seq=1429        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1360 | ssthresh: None
+RX: ACK          seq=1437        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1368 | ssthresh: None
+RX: ACK          seq=1445        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1376 | ssthresh: None
+RX: ACK          seq=1453        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1384 | ssthresh: None
+RX: ACK          seq=1461        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1392 | ssthresh: None
+RX: ACK          seq=1469        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1400 | ssthresh: None
+RX: ACK          seq=1477        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1408 | ssthresh: None
+RX: ACK          seq=1485        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1416 | ssthresh: None
+RX: ACK          seq=1493        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1424 | ssthresh: None
+RX: ACK          seq=1501        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1432 | ssthresh: None
+RX: ACK          seq=1509        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1440 | ssthresh: None
+RX: ACK          seq=1517        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1448 | ssthresh: None
+RX: ACK          seq=1525        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1456 | ssthresh: None
+RX: ACK          seq=1533        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1464 | ssthresh: None
+RX: ACK          seq=1541        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1472 | ssthresh: None
+RX: ACK          seq=1549        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1480 | ssthresh: None
+RX: ACK          seq=1557        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1488 | ssthresh: None
+RX: ACK          seq=1565        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1496 | ssthresh: None
+RX: ACK          seq=1573        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1504 | ssthresh: None
+RX: ACK          seq=1581        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1512 | ssthresh: None
+RX: ACK          seq=1589        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1520 | ssthresh: None
+RX: ACK          seq=1597        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1528 | ssthresh: None
+RX: ACK          seq=1605        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1536 | ssthresh: None
+RX: ACK          seq=1613        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1544 | ssthresh: None
+RX: ACK          seq=1621        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1552 | ssthresh: None
+RX: ACK          seq=1629        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1560 | ssthresh: None
+RX: ACK          seq=1637        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1568 | ssthresh: None
+RX: ACK          seq=1645        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1576 | ssthresh: None
+RX: ACK          seq=1653        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1584 | ssthresh: None
+RX: ACK          seq=1661        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1592 | ssthresh: None
+RX: ACK          seq=1669        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1600 | ssthresh: None
+RX: ACK          seq=1677        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1608 | ssthresh: None
+RX: ACK          seq=1685        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1616 | ssthresh: None
+RX: ACK          seq=1693        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1624 | ssthresh: None
+RX: ACK          seq=1701        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1632 | ssthresh: None
+RX: ACK          seq=1709        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1640 | ssthresh: None
+RX: ACK          seq=1717        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1648 | ssthresh: None
+RX: ACK          seq=1725        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1656 | ssthresh: None
+RX: ACK          seq=1733        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1664 | ssthresh: None
+RX: ACK          seq=1741        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1672 | ssthresh: None
+RX: ACK          seq=1749        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1680 | ssthresh: None
+RX: ACK          seq=1757        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1688 | ssthresh: None
+RX: ACK          seq=1765        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1696 | ssthresh: None
+RX: ACK          seq=1773        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1704 | ssthresh: None
+RX: ACK          seq=1781        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1712 | ssthresh: None
+RX: ACK          seq=1789        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1720 | ssthresh: None
+RX: ACK          seq=1797        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1728 | ssthresh: None
+RX: ACK          seq=1805        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1736 | ssthresh: None
+RX: ACK          seq=1813        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1744 | ssthresh: None
+RX: ACK          seq=1821        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1752 | ssthresh: None
+RX: ACK          seq=1829        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1760 | ssthresh: None
+RX: ACK          seq=1837        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1768 | ssthresh: None
+RX: ACK          seq=1845        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1776 | ssthresh: None
+RX: ACK          seq=1853        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1784 | ssthresh: None
+RX: ACK          seq=1861        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1792 | ssthresh: None
+RX: ACK          seq=1869        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1800 | ssthresh: None
+RX: ACK          seq=1877        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1808 | ssthresh: None
+RX: ACK          seq=1885        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1816 | ssthresh: None
+RX: ACK          seq=1893        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1824 | ssthresh: None
+RX: ACK          seq=1901        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1832 | ssthresh: None
+RX: ACK          seq=1909        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1840 | ssthresh: None
+RX: ACK          seq=1917        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1848 | ssthresh: None
+RX: ACK          seq=1925        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1856 | ssthresh: None
+RX: ACK          seq=1933        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1864 | ssthresh: None
+RX: ACK          seq=1941        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1872 | ssthresh: None
+RX: ACK          seq=1949        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1880 | ssthresh: None
+RX: ACK          seq=1957        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1888 | ssthresh: None
+RX: ACK          seq=1965        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1896 | ssthresh: None
+RX: ACK          seq=1973        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1904 | ssthresh: None
+RX: ACK          seq=1981        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1912 | ssthresh: None
+RX: ACK          seq=1989        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1920 | ssthresh: None
+RX: ACK          seq=1997        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1928 | ssthresh: None
+RX: ACK          seq=2005        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1936 | ssthresh: None
+RX: ACK          seq=2013        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1944 | ssthresh: None
+RX: ACK          seq=2021        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1952 | ssthresh: None
+RX: ACK          seq=2029        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1960 | ssthresh: None
+RX: ACK          seq=2037        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1968 | ssthresh: None
+RX: ACK          seq=2045        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1976 | ssthresh: None
+RX: ACK          seq=2053        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1984 | ssthresh: None
+RX: ACK          seq=2061        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 1992 | ssthresh: None
+RX: ACK          seq=2069        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 2000 | ssthresh: None
+RX: ACK          seq=2077        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 2008 | ssthresh: None
+TX: FIN          seq=2077        bytes=0
+RX: ACK+FIN      seq=2078        bytes=0
+TX: ACK          seq=2079        bytes=0
+TX: ACK          seq=2079        bytes=0
+TX: ACK          seq=2079        bytes=0
+TX: SYN          seq=51          bytes=0
+RX: SYN+ACK      seq=52          bytes=0
+TX: ACK          seq=53          bytes=0
+TX: DATA         seq=53          bytes=16
+RX: TIMEOUT
+TX: DATA         seq=53          bytes=16
+RX: TIMEOUT
+TX: DATA         seq=53          bytes=16
+RX: ACK          seq=69          bytes=0
+(debug cc) INICIO | Estado: SS | cwnd: 8 | ssthresh: None
+TX: DATA         seq=69          bytes=8
+TX: DATA         seq=77          bytes=8
+TX: DATA         seq=85          bytes=8
+TX: DATA         seq=93          bytes=8
+TX: DATA         seq=101         bytes=8
+TX: DATA         seq=109         bytes=8
+TX: DATA         seq=117         bytes=8
+TX: DATA         seq=125         bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 4
+TX: DATA         seq=69          bytes=8
+TX: DATA         seq=77          bytes=8
+TX: DATA         seq=85          bytes=8
+TX: DATA         seq=93          bytes=8
+TX: DATA         seq=101         bytes=8
+TX: DATA         seq=109         bytes=8
+TX: DATA         seq=117         bytes=8
+TX: DATA         seq=125         bytes=8
+RX: ACK          seq=85          bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 4
+TX: DATA         seq=133         bytes=8
+TX: DATA         seq=141         bytes=8
+TX: DATA         seq=149         bytes=8
+TX: DATA         seq=157         bytes=8
+TX: DATA         seq=165         bytes=8
+TX: DATA         seq=173         bytes=8
+TX: DATA         seq=181         bytes=8
+TX: DATA         seq=189         bytes=8
+TX: DATA         seq=197         bytes=8
+TX: DATA         seq=205         bytes=8
+RX: ACK          seq=93          bytes=0
+TX: SYN          seq=62          bytes=0
+RX: SYN+ACK      seq=63          bytes=0
+TX: ACK          seq=64          bytes=0
+TX: DATA         seq=64          bytes=16
+RX: TIMEOUT
+TX: DATA         seq=64          bytes=16
+RX: TIMEOUT
+TX: DATA         seq=64          bytes=16
+RX: TIMEOUT
+TX: DATA         seq=64          bytes=16
+RX: TIMEOUT
+TX: DATA         seq=64          bytes=16
+RX: TIMEOUT
+TX: DATA         seq=64          bytes=16
+RX: ACK          seq=80          bytes=0
+(debug cc) INICIO | Estado: SS | cwnd: 8 | ssthresh: None
+TX: DATA         seq=80          bytes=8
+TX: DATA         seq=88          bytes=8
+TX: DATA         seq=96          bytes=8
+TX: DATA         seq=104         bytes=8
+TX: DATA         seq=112         bytes=8
+TX: DATA         seq=120         bytes=8
+TX: DATA         seq=128         bytes=8
+TX: DATA         seq=136         bytes=8
+RX: ACK          seq=88          bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: None
+TX: DATA         seq=144         bytes=8
+TX: DATA         seq=152         bytes=8
+TX: DATA         seq=160         bytes=8
+TX: DATA         seq=168         bytes=8
+TX: DATA         seq=176         bytes=8
+TX: DATA         seq=184         bytes=8
+TX: DATA         seq=192         bytes=8
+TX: DATA         seq=200         bytes=8
+TX: DATA         seq=208         bytes=8
+RX: ACK          seq=96          bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 24 | ssthresh: None
+TX: DATA         seq=216         bytes=8
+TX: DATA         seq=224         bytes=8
+TX: DATA         seq=232         bytes=8
+TX: DATA         seq=240         bytes=8
+TX: DATA         seq=248         bytes=8
+TX: DATA         seq=256         bytes=8
+TX: DATA         seq=264         bytes=8
+TX: DATA         seq=272         bytes=8
+TX: DATA         seq=280         bytes=8
+RX: ACK          seq=112         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 32 | ssthresh: None
+TX: DATA         seq=288         bytes=8
+TX: DATA         seq=296         bytes=8
+TX: DATA         seq=304         bytes=8
+TX: DATA         seq=312         bytes=8
+TX: DATA         seq=320         bytes=8
+TX: DATA         seq=328         bytes=8
+TX: DATA         seq=336         bytes=8
+TX: DATA         seq=344         bytes=8
+TX: DATA         seq=352         bytes=8
+TX: DATA         seq=360         bytes=8
+RX: ACK          seq=120         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 40 | ssthresh: None
+TX: DATA         seq=368         bytes=8
+TX: DATA         seq=376         bytes=8
+TX: DATA         seq=384         bytes=8
+TX: DATA         seq=392         bytes=8
+TX: DATA         seq=400         bytes=8
+TX: DATA         seq=408         bytes=8
+TX: DATA         seq=416         bytes=8
+TX: DATA         seq=424         bytes=8
+TX: DATA         seq=432         bytes=8
+RX: ACK          seq=128         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 48 | ssthresh: None
+TX: DATA         seq=440         bytes=8
+TX: DATA         seq=448         bytes=8
+TX: DATA         seq=456         bytes=8
+TX: DATA         seq=464         bytes=8
+TX: DATA         seq=472         bytes=8
+TX: DATA         seq=480         bytes=8
+TX: DATA         seq=488         bytes=8
+TX: DATA         seq=496         bytes=8
+TX: DATA         seq=504         bytes=8
+RX: ACK          seq=136         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 56 | ssthresh: None
+TX: DATA         seq=512         bytes=8
+TX: DATA         seq=520         bytes=8
+TX: DATA         seq=528         bytes=8
+TX: DATA         seq=536         bytes=8
+TX: DATA         seq=544         bytes=8
+TX: DATA         seq=552         bytes=8
+TX: DATA         seq=560         bytes=8
+TX: DATA         seq=568         bytes=8
+TX: DATA         seq=576         bytes=8
+RX: ACK          seq=144         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 64 | ssthresh: None
+TX: DATA         seq=584         bytes=8
+TX: DATA         seq=592         bytes=8
+TX: DATA         seq=600         bytes=8
+TX: DATA         seq=608         bytes=8
+TX: DATA         seq=616         bytes=8
+TX: DATA         seq=624         bytes=8
+TX: DATA         seq=632         bytes=8
+TX: DATA         seq=640         bytes=8
+TX: DATA         seq=648         bytes=8
+RX: ACK          seq=152         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 72 | ssthresh: None
+TX: DATA         seq=656         bytes=8
+TX: DATA         seq=664         bytes=8
+TX: DATA         seq=672         bytes=8
+TX: DATA         seq=680         bytes=8
+TX: DATA         seq=688         bytes=8
+TX: DATA         seq=696         bytes=8
+TX: DATA         seq=704         bytes=8
+TX: DATA         seq=712         bytes=8
+TX: DATA         seq=720         bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 36
+TX: DATA         seq=152         bytes=8
+TX: DATA         seq=160         bytes=8
+TX: DATA         seq=168         bytes=8
+TX: DATA         seq=176         bytes=8
+TX: DATA         seq=184         bytes=8
+TX: DATA         seq=192         bytes=8
+TX: DATA         seq=200         bytes=8
+TX: DATA         seq=208         bytes=8
+RX: ACK          seq=160         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 36
+TX: DATA         seq=216         bytes=8
+TX: DATA         seq=224         bytes=8
+TX: DATA         seq=232         bytes=8
+TX: DATA         seq=240         bytes=8
+TX: DATA         seq=248         bytes=8
+TX: DATA         seq=256         bytes=8
+TX: DATA         seq=264         bytes=8
+TX: DATA         seq=272         bytes=8
+TX: DATA         seq=280         bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 8
+TX: DATA         seq=160         bytes=8
+TX: DATA         seq=168         bytes=8
+TX: DATA         seq=176         bytes=8
+TX: DATA         seq=184         bytes=8
+TX: DATA         seq=192         bytes=8
+TX: DATA         seq=200         bytes=8
+TX: DATA         seq=208         bytes=8
+TX: DATA         seq=216         bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 4
+TX: DATA         seq=160         bytes=8
+TX: DATA         seq=168         bytes=8
+TX: DATA         seq=176         bytes=8
+TX: DATA         seq=184         bytes=8
+TX: DATA         seq=192         bytes=8
+TX: DATA         seq=200         bytes=8
+TX: DATA         seq=208         bytes=8
+TX: DATA         seq=216         bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 4
+TX: DATA         seq=160         bytes=8
+TX: DATA         seq=168         bytes=8
+TX: DATA         seq=176         bytes=8
+TX: DATA         seq=184         bytes=8
+TX: DATA         seq=192         bytes=8
+TX: DATA         seq=200         bytes=8
+TX: DATA         seq=208         bytes=8
+TX: DATA         seq=216         bytes=8
+RX: ACK          seq=168         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 4
+TX: DATA         seq=224         bytes=8
+TX: DATA         seq=232         bytes=8
+TX: DATA         seq=240         bytes=8
+TX: DATA         seq=248         bytes=8
+TX: DATA         seq=256         bytes=8
+TX: DATA         seq=264         bytes=8
+TX: DATA         seq=272         bytes=8
+TX: DATA         seq=280         bytes=8
+TX: DATA         seq=288         bytes=8
+RX: ACK          seq=200         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 20 | ssthresh: 4
+TX: DATA         seq=296         bytes=8
+TX: DATA         seq=304         bytes=8
+TX: DATA         seq=312         bytes=8
+TX: DATA         seq=320         bytes=8
+TX: DATA         seq=328         bytes=8
+TX: DATA         seq=336         bytes=8
+TX: DATA         seq=344         bytes=8
+TX: DATA         seq=352         bytes=8
+RX: ACK          seq=208         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 24 | ssthresh: 4
+TX: DATA         seq=360         bytes=8
+TX: DATA         seq=368         bytes=8
+TX: DATA         seq=376         bytes=8
+TX: DATA         seq=384         bytes=8
+TX: DATA         seq=392         bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 12.0
+TX: DATA         seq=208         bytes=8
+TX: DATA         seq=216         bytes=8
+TX: DATA         seq=224         bytes=8
+TX: DATA         seq=232         bytes=8
+TX: DATA         seq=240         bytes=8
+TX: DATA         seq=248         bytes=8
+TX: DATA         seq=256         bytes=8
+TX: DATA         seq=264         bytes=8
+RX: ACK          seq=216         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 12.0
+TX: DATA         seq=272         bytes=8
+TX: DATA         seq=280         bytes=8
+TX: DATA         seq=288         bytes=8
+TX: DATA         seq=296         bytes=8
+TX: DATA         seq=304         bytes=8
+TX: DATA         seq=312         bytes=8
+TX: DATA         seq=320         bytes=8
+TX: DATA         seq=328         bytes=8
+TX: DATA         seq=336         bytes=8
+RX: ACK          seq=224         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 20 | ssthresh: 12.0
+TX: DATA         seq=344         bytes=8
+TX: DATA         seq=352         bytes=8
+TX: DATA         seq=360         bytes=8
+TX: DATA         seq=368         bytes=8
+TX: DATA         seq=376         bytes=8
+RX: ACK          seq=232         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 24 | ssthresh: 12.0
+TX: DATA         seq=384         bytes=8
+TX: DATA         seq=392         bytes=8
+TX: DATA         seq=400         bytes=8
+TX: DATA         seq=408         bytes=8
+TX: DATA         seq=416         bytes=8
+RX: ACK          seq=240         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 26 | ssthresh: 12.0
+TX: DATA         seq=424         bytes=8
+TX: DATA         seq=432         bytes=8
+TX: DATA         seq=440         bytes=8
+RX: ACK          seq=248         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 29 | ssthresh: 12.0
+TX: DATA         seq=448         bytes=8
+TX: DATA         seq=456         bytes=8
+TX: DATA         seq=464         bytes=8
+TX: DATA         seq=472         bytes=8
+RX: ACK          seq=256         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 32 | ssthresh: 12.0
+TX: DATA         seq=480         bytes=8
+TX: DATA         seq=488         bytes=8
+TX: DATA         seq=496         bytes=8
+TX: DATA         seq=504         bytes=8
+RX: ACK          seq=264         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 34 | ssthresh: 12.0
+TX: DATA         seq=512         bytes=8
+TX: DATA         seq=520         bytes=8
+TX: DATA         seq=528         bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 17.0
+TX: DATA         seq=264         bytes=8
+TX: DATA         seq=272         bytes=8
+TX: DATA         seq=280         bytes=8
+TX: DATA         seq=288         bytes=8
+TX: DATA         seq=296         bytes=8
+TX: DATA         seq=304         bytes=8
+TX: DATA         seq=312         bytes=8
+TX: DATA         seq=320         bytes=8
+RX: ACK          seq=272         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 17.0
+TX: DATA         seq=328         bytes=8
+TX: DATA         seq=336         bytes=8
+TX: DATA         seq=344         bytes=8
+TX: DATA         seq=352         bytes=8
+TX: DATA         seq=360         bytes=8
+TX: DATA         seq=368         bytes=8
+TX: DATA         seq=376         bytes=8
+TX: DATA         seq=384         bytes=8
+TX: DATA         seq=392         bytes=8
+RX: ACK          seq=280         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 24 | ssthresh: 17.0
+TX: DATA         seq=400         bytes=8
+TX: DATA         seq=408         bytes=8
+TX: DATA         seq=416         bytes=8
+TX: DATA         seq=424         bytes=8
+TX: DATA         seq=432         bytes=8
+TX: DATA         seq=440         bytes=8
+TX: DATA         seq=448         bytes=8
+TX: DATA         seq=456         bytes=8
+TX: DATA         seq=464         bytes=8
+RX: ACK          seq=288         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 26 | ssthresh: 17.0
+TX: DATA         seq=472         bytes=8
+TX: DATA         seq=480         bytes=8
+TX: DATA         seq=488         bytes=8
+RX: ACK          seq=296         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 29 | ssthresh: 17.0
+TX: DATA         seq=496         bytes=8
+TX: DATA         seq=504         bytes=8
+TX: DATA         seq=512         bytes=8
+TX: DATA         seq=520         bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 14.0
+TX: DATA         seq=296         bytes=8
+TX: DATA         seq=304         bytes=8
+TX: DATA         seq=312         bytes=8
+TX: DATA         seq=320         bytes=8
+TX: DATA         seq=328         bytes=8
+TX: DATA         seq=336         bytes=8
+TX: DATA         seq=344         bytes=8
+TX: DATA         seq=352         bytes=8
+RX: ACK          seq=312         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 14.0
+TX: DATA         seq=360         bytes=8
+TX: DATA         seq=368         bytes=8
+TX: DATA         seq=376         bytes=8
+TX: DATA         seq=384         bytes=8
+TX: DATA         seq=392         bytes=8
+TX: DATA         seq=400         bytes=8
+TX: DATA         seq=408         bytes=8
+TX: DATA         seq=416         bytes=8
+TX: DATA         seq=424         bytes=8
+TX: DATA         seq=432         bytes=8
+RX: ACK          seq=320         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 20 | ssthresh: 14.0
+TX: DATA         seq=440         bytes=8
+TX: DATA         seq=448         bytes=8
+TX: DATA         seq=456         bytes=8
+TX: DATA         seq=464         bytes=8
+TX: DATA         seq=472         bytes=8
+RX: ACK          seq=328         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 24 | ssthresh: 14.0
+TX: DATA         seq=480         bytes=8
+TX: DATA         seq=488         bytes=8
+TX: DATA         seq=496         bytes=8
+TX: DATA         seq=504         bytes=8
+TX: DATA         seq=512         bytes=8
+RX: ACK          seq=336         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 26 | ssthresh: 14.0
+TX: DATA         seq=520         bytes=8
+TX: DATA         seq=528         bytes=8
+TX: DATA         seq=536         bytes=8
+RX: ACK          seq=344         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 29 | ssthresh: 14.0
+TX: DATA         seq=544         bytes=8
+TX: DATA         seq=552         bytes=8
+TX: DATA         seq=560         bytes=8
+TX: DATA         seq=568         bytes=8
+RX: ACK          seq=352         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 32 | ssthresh: 14.0
+TX: DATA         seq=576         bytes=8
+TX: DATA         seq=584         bytes=8
+TX: DATA         seq=592         bytes=8
+TX: DATA         seq=600         bytes=8
+RX: ACK          seq=368         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 34 | ssthresh: 14.0
+TX: DATA         seq=608         bytes=8
+TX: DATA         seq=616         bytes=8
+TX: DATA         seq=624         bytes=8
+TX: DATA         seq=632         bytes=8
+RX: ACK          seq=376         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 36 | ssthresh: 14.0
+TX: DATA         seq=640         bytes=8
+TX: DATA         seq=648         bytes=8
+TX: DATA         seq=656         bytes=8
+RX: ACK          seq=384         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 38 | ssthresh: 14.0
+TX: DATA         seq=664         bytes=8
+TX: DATA         seq=672         bytes=8
+TX: DATA         seq=680         bytes=8
+RX: ACK          seq=392         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 40 | ssthresh: 14.0
+TX: DATA         seq=688         bytes=8
+TX: DATA         seq=696         bytes=8
+TX: DATA         seq=704         bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 20.0
+TX: DATA         seq=392         bytes=8
+TX: DATA         seq=400         bytes=8
+TX: DATA         seq=408         bytes=8
+TX: DATA         seq=416         bytes=8
+TX: DATA         seq=424         bytes=8
+TX: DATA         seq=432         bytes=8
+TX: DATA         seq=440         bytes=8
+TX: DATA         seq=448         bytes=8
+RX: ACK          seq=400         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 20.0
+TX: DATA         seq=456         bytes=8
+TX: DATA         seq=464         bytes=8
+TX: DATA         seq=472         bytes=8
+TX: DATA         seq=480         bytes=8
+TX: DATA         seq=488         bytes=8
+TX: DATA         seq=496         bytes=8
+TX: DATA         seq=504         bytes=8
+TX: DATA         seq=512         bytes=8
+TX: DATA         seq=520         bytes=8
+RX: ACK          seq=408         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 24 | ssthresh: 20.0
+TX: DATA         seq=528         bytes=8
+TX: DATA         seq=536         bytes=8
+TX: DATA         seq=544         bytes=8
+TX: DATA         seq=552         bytes=8
+TX: DATA         seq=560         bytes=8
+TX: DATA         seq=568         bytes=8
+TX: DATA         seq=576         bytes=8
+TX: DATA         seq=584         bytes=8
+TX: DATA         seq=592         bytes=8
+RX: ACK          seq=424         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 26 | ssthresh: 20.0
+TX: DATA         seq=600         bytes=8
+TX: DATA         seq=608         bytes=8
+TX: DATA         seq=616         bytes=8
+TX: DATA         seq=624         bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 13.0
+TX: DATA         seq=424         bytes=8
+TX: DATA         seq=432         bytes=8
+TX: DATA         seq=440         bytes=8
+TX: DATA         seq=448         bytes=8
+TX: DATA         seq=456         bytes=8
+TX: DATA         seq=464         bytes=8
+TX: DATA         seq=472         bytes=8
+TX: DATA         seq=480         bytes=8
+RX: ACK          seq=432         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 13.0
+TX: DATA         seq=488         bytes=8
+TX: DATA         seq=496         bytes=8
+TX: DATA         seq=504         bytes=8
+TX: DATA         seq=512         bytes=8
+TX: DATA         seq=520         bytes=8
+TX: DATA         seq=528         bytes=8
+TX: DATA         seq=536         bytes=8
+TX: DATA         seq=544         bytes=8
+TX: DATA         seq=552         bytes=8
+RX: ACK          seq=440         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 20 | ssthresh: 13.0
+TX: DATA         seq=560         bytes=8
+TX: DATA         seq=568         bytes=8
+TX: DATA         seq=576         bytes=8
+TX: DATA         seq=584         bytes=8
+TX: DATA         seq=592         bytes=8
+RX: ACK          seq=448         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 24 | ssthresh: 13.0
+TX: DATA         seq=600         bytes=8
+TX: DATA         seq=608         bytes=8
+TX: DATA         seq=616         bytes=8
+TX: DATA         seq=624         bytes=8
+TX: DATA         seq=632         bytes=8
+RX: ACK          seq=456         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 26 | ssthresh: 13.0
+TX: DATA         seq=640         bytes=8
+TX: DATA         seq=648         bytes=8
+TX: DATA         seq=656         bytes=8
+RX: ACK          seq=464         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 29 | ssthresh: 13.0
+TX: DATA         seq=664         bytes=8
+TX: DATA         seq=672         bytes=8
+TX: DATA         seq=680         bytes=8
+TX: DATA         seq=688         bytes=8
+RX: ACK          seq=488         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 32 | ssthresh: 13.0
+TX: DATA         seq=696         bytes=8
+TX: DATA         seq=704         bytes=8
+TX: DATA         seq=712         bytes=8
+TX: DATA         seq=720         bytes=8
+TX: DATA         seq=728         bytes=8
+TX: DATA         seq=736         bytes=8
+RX: ACK          seq=496         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 34 | ssthresh: 13.0
+TX: DATA         seq=744         bytes=8
+TX: DATA         seq=752         bytes=8
+TX: DATA         seq=760         bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 17.0
+TX: DATA         seq=496         bytes=8
+TX: DATA         seq=504         bytes=8
+TX: DATA         seq=512         bytes=8
+TX: DATA         seq=520         bytes=8
+TX: DATA         seq=528         bytes=8
+TX: DATA         seq=536         bytes=8
+TX: DATA         seq=544         bytes=8
+TX: DATA         seq=552         bytes=8
+RX: ACK          seq=504         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 17.0
+TX: DATA         seq=560         bytes=8
+TX: DATA         seq=568         bytes=8
+TX: DATA         seq=576         bytes=8
+TX: DATA         seq=584         bytes=8
+TX: DATA         seq=592         bytes=8
+TX: DATA         seq=600         bytes=8
+TX: DATA         seq=608         bytes=8
+TX: DATA         seq=616         bytes=8
+TX: DATA         seq=624         bytes=8
+RX: ACK          seq=520         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 24 | ssthresh: 17.0
+TX: DATA         seq=632         bytes=8
+TX: DATA         seq=640         bytes=8
+TX: DATA         seq=648         bytes=8
+TX: DATA         seq=656         bytes=8
+TX: DATA         seq=664         bytes=8
+TX: DATA         seq=672         bytes=8
+TX: DATA         seq=680         bytes=8
+TX: DATA         seq=688         bytes=8
+TX: DATA         seq=696         bytes=8
+TX: DATA         seq=704         bytes=8
+RX: ACK          seq=528         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 26 | ssthresh: 17.0
+TX: DATA         seq=712         bytes=8
+TX: DATA         seq=720         bytes=8
+TX: DATA         seq=728         bytes=8
+RX: ACK          seq=536         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 29 | ssthresh: 17.0
+TX: DATA         seq=736         bytes=8
+TX: DATA         seq=744         bytes=8
+TX: DATA         seq=752         bytes=8
+TX: DATA         seq=760         bytes=8
+RX: ACK          seq=544         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 32 | ssthresh: 17.0
+TX: DATA         seq=768         bytes=8
+TX: DATA         seq=776         bytes=8
+TX: DATA         seq=784         bytes=8
+TX: DATA         seq=792         bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 16.0
+TX: DATA         seq=544         bytes=8
+TX: DATA         seq=552         bytes=8
+TX: DATA         seq=560         bytes=8
+TX: DATA         seq=568         bytes=8
+TX: DATA         seq=576         bytes=8
+TX: DATA         seq=584         bytes=8
+TX: DATA         seq=592         bytes=8
+TX: DATA         seq=600         bytes=8
+RX: ACK          seq=552         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 16.0
+TX: DATA         seq=608         bytes=8
+TX: DATA         seq=616         bytes=8
+TX: DATA         seq=624         bytes=8
+TX: DATA         seq=632         bytes=8
+TX: DATA         seq=640         bytes=8
+TX: DATA         seq=648         bytes=8
+TX: DATA         seq=656         bytes=8
+TX: DATA         seq=664         bytes=8
+TX: DATA         seq=672         bytes=8
+RX: ACK          seq=560         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 20 | ssthresh: 16.0
+TX: DATA         seq=680         bytes=8
+TX: DATA         seq=688         bytes=8
+TX: DATA         seq=696         bytes=8
+TX: DATA         seq=704         bytes=8
+TX: DATA         seq=712         bytes=8
+RX: ACK          seq=568         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 24 | ssthresh: 16.0
+TX: DATA         seq=720         bytes=8
+TX: DATA         seq=728         bytes=8
+TX: DATA         seq=736         bytes=8
+TX: DATA         seq=744         bytes=8
+TX: DATA         seq=752         bytes=8
+RX: ACK          seq=576         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 26 | ssthresh: 16.0
+TX: DATA         seq=760         bytes=8
+TX: DATA         seq=768         bytes=8
+TX: DATA         seq=776         bytes=8
+RX: ACK          seq=584         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 29 | ssthresh: 16.0
+TX: DATA         seq=784         bytes=8
+TX: DATA         seq=792         bytes=8
+TX: DATA         seq=800         bytes=8
+TX: DATA         seq=808         bytes=8
+RX: ACK          seq=592         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 32 | ssthresh: 16.0
+TX: DATA         seq=816         bytes=8
+TX: DATA         seq=824         bytes=8
+TX: DATA         seq=832         bytes=8
+TX: DATA         seq=840         bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 16.0
+TX: DATA         seq=592         bytes=8
+TX: DATA         seq=600         bytes=8
+TX: DATA         seq=608         bytes=8
+TX: DATA         seq=616         bytes=8
+TX: DATA         seq=624         bytes=8
+TX: DATA         seq=632         bytes=8
+TX: DATA         seq=640         bytes=8
+TX: DATA         seq=648         bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 4
+TX: DATA         seq=592         bytes=8
+TX: DATA         seq=600         bytes=8
+TX: DATA         seq=608         bytes=8
+TX: DATA         seq=616         bytes=8
+TX: DATA         seq=624         bytes=8
+TX: DATA         seq=632         bytes=8
+TX: DATA         seq=640         bytes=8
+TX: DATA         seq=648         bytes=8
+RX: ACK          seq=608         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 4
+TX: DATA         seq=656         bytes=8
+TX: DATA         seq=664         bytes=8
+TX: DATA         seq=672         bytes=8
+TX: DATA         seq=680         bytes=8
+TX: DATA         seq=688         bytes=8
+TX: DATA         seq=696         bytes=8
+TX: DATA         seq=704         bytes=8
+TX: DATA         seq=712         bytes=8
+TX: DATA         seq=720         bytes=8
+TX: DATA         seq=728         bytes=8
+RX: ACK          seq=616         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 20 | ssthresh: 4
+TX: DATA         seq=736         bytes=8
+TX: DATA         seq=744         bytes=8
+TX: DATA         seq=752         bytes=8
+TX: DATA         seq=760         bytes=8
+TX: DATA         seq=768         bytes=8
+RX: ACK          seq=624         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 24 | ssthresh: 4
+TX: DATA         seq=776         bytes=8
+TX: DATA         seq=784         bytes=8
+TX: DATA         seq=792         bytes=8
+TX: DATA         seq=800         bytes=8
+TX: DATA         seq=808         bytes=8
+RX: ACK          seq=632         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 26 | ssthresh: 4
+TX: DATA         seq=816         bytes=8
+TX: DATA         seq=824         bytes=8
+TX: DATA         seq=832         bytes=8
+RX: ACK          seq=640         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 29 | ssthresh: 4
+TX: DATA         seq=840         bytes=8
+TX: DATA         seq=848         bytes=8
+TX: DATA         seq=856         bytes=8
+TX: DATA         seq=864         bytes=8
+RX: ACK          seq=648         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 32 | ssthresh: 4
+TX: DATA         seq=872         bytes=8
+TX: DATA         seq=880         bytes=8
+TX: DATA         seq=888         bytes=8
+TX: DATA         seq=896         bytes=8
+RX: ACK          seq=656         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 34 | ssthresh: 4
+TX: DATA         seq=904         bytes=8
+TX: DATA         seq=912         bytes=8
+TX: DATA         seq=920         bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 17.0
+TX: DATA         seq=656         bytes=8
+TX: DATA         seq=664         bytes=8
+TX: DATA         seq=672         bytes=8
+TX: DATA         seq=680         bytes=8
+TX: DATA         seq=688         bytes=8
+TX: DATA         seq=696         bytes=8
+TX: DATA         seq=704         bytes=8
+TX: DATA         seq=712         bytes=8
+RX: ACK          seq=672         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 17.0
+TX: DATA         seq=720         bytes=8
+TX: DATA         seq=728         bytes=8
+TX: DATA         seq=736         bytes=8
+TX: DATA         seq=744         bytes=8
+TX: DATA         seq=752         bytes=8
+TX: DATA         seq=760         bytes=8
+TX: DATA         seq=768         bytes=8
+TX: DATA         seq=776         bytes=8
+TX: DATA         seq=784         bytes=8
+TX: DATA         seq=792         bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 8
+TX: DATA         seq=672         bytes=8
+TX: DATA         seq=680         bytes=8
+TX: DATA         seq=688         bytes=8
+TX: DATA         seq=696         bytes=8
+TX: DATA         seq=704         bytes=8
+TX: DATA         seq=712         bytes=8
+TX: DATA         seq=720         bytes=8
+TX: DATA         seq=728         bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 4
+TX: DATA         seq=672         bytes=8
+TX: DATA         seq=680         bytes=8
+TX: DATA         seq=688         bytes=8
+TX: DATA         seq=696         bytes=8
+TX: DATA         seq=704         bytes=8
+TX: DATA         seq=712         bytes=8
+TX: DATA         seq=720         bytes=8
+TX: DATA         seq=728         bytes=8
+RX: ACK          seq=680         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 4
+TX: DATA         seq=736         bytes=8
+TX: DATA         seq=744         bytes=8
+TX: DATA         seq=752         bytes=8
+TX: DATA         seq=760         bytes=8
+TX: DATA         seq=768         bytes=8
+TX: DATA         seq=776         bytes=8
+TX: DATA         seq=784         bytes=8
+TX: DATA         seq=792         bytes=8
+TX: DATA         seq=800         bytes=8
+RX: ACK          seq=688         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 20 | ssthresh: 4
+TX: DATA         seq=808         bytes=8
+TX: DATA         seq=816         bytes=8
+TX: DATA         seq=824         bytes=8
+TX: DATA         seq=832         bytes=8
+TX: DATA         seq=840         bytes=8
+RX: ACK          seq=696         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 24 | ssthresh: 4
+TX: DATA         seq=848         bytes=8
+TX: DATA         seq=856         bytes=8
+TX: DATA         seq=864         bytes=8
+TX: DATA         seq=872         bytes=8
+TX: DATA         seq=880         bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 12.0
+TX: DATA         seq=696         bytes=8
+TX: DATA         seq=704         bytes=8
+TX: DATA         seq=712         bytes=8
+TX: DATA         seq=720         bytes=8
+TX: DATA         seq=728         bytes=8
+TX: DATA         seq=736         bytes=8
+TX: DATA         seq=744         bytes=8
+TX: DATA         seq=752         bytes=8
+RX: ACK          seq=704         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 12.0
+TX: DATA         seq=760         bytes=8
+TX: DATA         seq=768         bytes=8
+TX: DATA         seq=776         bytes=8
+TX: DATA         seq=784         bytes=8
+TX: DATA         seq=792         bytes=8
+TX: DATA         seq=800         bytes=8
+TX: DATA         seq=808         bytes=8
+TX: DATA         seq=816         bytes=8
+TX: DATA         seq=824         bytes=8
+RX: ACK          seq=728         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 20 | ssthresh: 12.0
+TX: DATA         seq=832         bytes=8
+TX: DATA         seq=840         bytes=8
+TX: DATA         seq=848         bytes=8
+TX: DATA         seq=856         bytes=8
+TX: DATA         seq=864         bytes=8
+TX: DATA         seq=872         bytes=8
+TX: DATA         seq=880         bytes=8
+RX: ACK          seq=736         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 24 | ssthresh: 12.0
+TX: DATA         seq=888         bytes=8
+TX: DATA         seq=896         bytes=8
+TX: DATA         seq=904         bytes=8
+TX: DATA         seq=912         bytes=8
+TX: DATA         seq=920         bytes=8
+RX: ACK          seq=744         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 26 | ssthresh: 12.0
+TX: DATA         seq=928         bytes=8
+TX: DATA         seq=936         bytes=8
+TX: DATA         seq=944         bytes=8
+RX: ACK          seq=760         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 29 | ssthresh: 12.0
+TX: DATA         seq=952         bytes=8
+TX: DATA         seq=960         bytes=8
+TX: DATA         seq=968         bytes=8
+TX: DATA         seq=976         bytes=8
+TX: DATA         seq=984         bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 14.0
+TX: DATA         seq=760         bytes=8
+TX: DATA         seq=768         bytes=8
+TX: DATA         seq=776         bytes=8
+TX: DATA         seq=784         bytes=8
+TX: DATA         seq=792         bytes=8
+TX: DATA         seq=800         bytes=8
+TX: DATA         seq=808         bytes=8
+TX: DATA         seq=816         bytes=8
+RX: ACK          seq=768         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 14.0
+TX: DATA         seq=824         bytes=8
+TX: DATA         seq=832         bytes=8
+TX: DATA         seq=840         bytes=8
+TX: DATA         seq=848         bytes=8
+TX: DATA         seq=856         bytes=8
+TX: DATA         seq=864         bytes=8
+TX: DATA         seq=872         bytes=8
+TX: DATA         seq=880         bytes=8
+TX: DATA         seq=888         bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 8
+TX: DATA         seq=768         bytes=8
+TX: DATA         seq=776         bytes=8
+TX: DATA         seq=784         bytes=8
+TX: DATA         seq=792         bytes=8
+TX: DATA         seq=800         bytes=8
+TX: DATA         seq=808         bytes=8
+TX: DATA         seq=816         bytes=8
+TX: DATA         seq=824         bytes=8
+RX: ACK          seq=776         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 8
+TX: DATA         seq=832         bytes=8
+TX: DATA         seq=840         bytes=8
+TX: DATA         seq=848         bytes=8
+TX: DATA         seq=856         bytes=8
+TX: DATA         seq=864         bytes=8
+TX: DATA         seq=872         bytes=8
+TX: DATA         seq=880         bytes=8
+TX: DATA         seq=888         bytes=8
+TX: DATA         seq=896         bytes=8
+RX: ACK          seq=784         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 20 | ssthresh: 8
+TX: DATA         seq=904         bytes=8
+TX: DATA         seq=912         bytes=8
+TX: DATA         seq=920         bytes=8
+TX: DATA         seq=928         bytes=8
+TX: DATA         seq=936         bytes=8
+RX: ACK          seq=792         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 24 | ssthresh: 8
+TX: DATA         seq=944         bytes=8
+TX: DATA         seq=952         bytes=8
+TX: DATA         seq=960         bytes=8
+TX: DATA         seq=968         bytes=8
+TX: DATA         seq=976         bytes=8
+RX: ACK          seq=800         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 26 | ssthresh: 8
+TX: DATA         seq=984         bytes=8
+TX: DATA         seq=992         bytes=8
+TX: DATA         seq=1000        bytes=8
+RX: ACK          seq=808         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 29 | ssthresh: 8
+TX: DATA         seq=1008        bytes=8
+TX: DATA         seq=1016        bytes=8
+TX: DATA         seq=1024        bytes=8
+TX: DATA         seq=1032        bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 14.0
+TX: DATA         seq=808         bytes=8
+TX: DATA         seq=816         bytes=8
+TX: DATA         seq=824         bytes=8
+TX: DATA         seq=832         bytes=8
+TX: DATA         seq=840         bytes=8
+TX: DATA         seq=848         bytes=8
+TX: DATA         seq=856         bytes=8
+TX: DATA         seq=864         bytes=8
+RX: ACK          seq=816         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 14.0
+TX: DATA         seq=872         bytes=8
+TX: DATA         seq=880         bytes=8
+TX: DATA         seq=888         bytes=8
+TX: DATA         seq=896         bytes=8
+TX: DATA         seq=904         bytes=8
+TX: DATA         seq=912         bytes=8
+TX: DATA         seq=920         bytes=8
+TX: DATA         seq=928         bytes=8
+TX: DATA         seq=936         bytes=8
+RX: ACK          seq=824         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 20 | ssthresh: 14.0
+TX: DATA         seq=944         bytes=8
+TX: DATA         seq=952         bytes=8
+TX: DATA         seq=960         bytes=8
+TX: DATA         seq=968         bytes=8
+TX: DATA         seq=976         bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 10.0
+TX: DATA         seq=824         bytes=8
+TX: DATA         seq=832         bytes=8
+TX: DATA         seq=840         bytes=8
+TX: DATA         seq=848         bytes=8
+TX: DATA         seq=856         bytes=8
+TX: DATA         seq=864         bytes=8
+TX: DATA         seq=872         bytes=8
+TX: DATA         seq=880         bytes=8
+RX: ACK          seq=832         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 10.0
+TX: DATA         seq=888         bytes=8
+TX: DATA         seq=896         bytes=8
+TX: DATA         seq=904         bytes=8
+TX: DATA         seq=912         bytes=8
+TX: DATA         seq=920         bytes=8
+TX: DATA         seq=928         bytes=8
+TX: DATA         seq=936         bytes=8
+TX: DATA         seq=944         bytes=8
+TX: DATA         seq=952         bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 8
+TX: DATA         seq=832         bytes=8
+TX: DATA         seq=840         bytes=8
+TX: DATA         seq=848         bytes=8
+TX: DATA         seq=856         bytes=8
+TX: DATA         seq=864         bytes=8
+TX: DATA         seq=872         bytes=8
+TX: DATA         seq=880         bytes=8
+TX: DATA         seq=888         bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 4
+TX: DATA         seq=832         bytes=8
+TX: DATA         seq=840         bytes=8
+TX: DATA         seq=848         bytes=8
+TX: DATA         seq=856         bytes=8
+TX: DATA         seq=864         bytes=8
+TX: DATA         seq=872         bytes=8
+TX: DATA         seq=880         bytes=8
+TX: DATA         seq=888         bytes=8
+RX: ACK          seq=840         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 4
+TX: DATA         seq=896         bytes=8
+TX: DATA         seq=904         bytes=8
+TX: DATA         seq=912         bytes=8
+TX: DATA         seq=920         bytes=8
+TX: DATA         seq=928         bytes=8
+TX: DATA         seq=936         bytes=8
+TX: DATA         seq=944         bytes=8
+TX: DATA         seq=952         bytes=8
+TX: DATA         seq=960         bytes=8
+RX: ACK          seq=848         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 20 | ssthresh: 4
+TX: DATA         seq=968         bytes=8
+TX: DATA         seq=976         bytes=8
+TX: DATA         seq=984         bytes=8
+TX: DATA         seq=992         bytes=8
+TX: DATA         seq=1000        bytes=8
+RX: ACK          seq=856         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 24 | ssthresh: 4
+TX: DATA         seq=1008        bytes=8
+TX: DATA         seq=1016        bytes=8
+TX: DATA         seq=1024        bytes=8
+TX: DATA         seq=1032        bytes=8
+TX: DATA         seq=1040        bytes=8
+RX: ACK          seq=864         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 26 | ssthresh: 4
+TX: DATA         seq=1048        bytes=8
+TX: DATA         seq=1056        bytes=8
+TX: DATA         seq=1064        bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 13.0
+TX: DATA         seq=864         bytes=8
+TX: DATA         seq=872         bytes=8
+TX: DATA         seq=880         bytes=8
+TX: DATA         seq=888         bytes=8
+TX: DATA         seq=896         bytes=8
+TX: DATA         seq=904         bytes=8
+TX: DATA         seq=912         bytes=8
+TX: DATA         seq=920         bytes=8
+RX: ACK          seq=880         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 13.0
+TX: DATA         seq=928         bytes=8
+TX: DATA         seq=936         bytes=8
+TX: DATA         seq=944         bytes=8
+TX: DATA         seq=952         bytes=8
+TX: DATA         seq=960         bytes=8
+TX: DATA         seq=968         bytes=8
+TX: DATA         seq=976         bytes=8
+TX: DATA         seq=984         bytes=8
+TX: DATA         seq=992         bytes=8
+TX: DATA         seq=1000        bytes=8
+RX: ACK          seq=888         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 20 | ssthresh: 13.0
+TX: DATA         seq=1008        bytes=8
+TX: DATA         seq=1016        bytes=8
+TX: DATA         seq=1024        bytes=8
+TX: DATA         seq=1032        bytes=8
+TX: DATA         seq=1040        bytes=8
+RX: ACK          seq=896         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 24 | ssthresh: 13.0
+TX: DATA         seq=1048        bytes=8
+TX: DATA         seq=1056        bytes=8
+TX: DATA         seq=1064        bytes=8
+TX: DATA         seq=1072        bytes=8
+TX: DATA         seq=1080        bytes=8
+RX: ACK          seq=904         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 26 | ssthresh: 13.0
+TX: DATA         seq=1088        bytes=8
+TX: DATA         seq=1096        bytes=8
+TX: DATA         seq=1104        bytes=8
+RX: ACK          seq=912         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 29 | ssthresh: 13.0
+TX: DATA         seq=1112        bytes=8
+TX: DATA         seq=1120        bytes=8
+TX: DATA         seq=1128        bytes=8
+TX: DATA         seq=1136        bytes=8
+RX: ACK          seq=920         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 32 | ssthresh: 13.0
+TX: DATA         seq=1144        bytes=8
+TX: DATA         seq=1152        bytes=8
+TX: DATA         seq=1160        bytes=8
+TX: DATA         seq=1168        bytes=8
+RX: ACK          seq=928         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 34 | ssthresh: 13.0
+TX: DATA         seq=1176        bytes=8
+TX: DATA         seq=1184        bytes=8
+TX: DATA         seq=1192        bytes=8
+RX: ACK          seq=936         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 36 | ssthresh: 13.0
+TX: DATA         seq=1200        bytes=8
+TX: DATA         seq=1208        bytes=8
+TX: DATA         seq=1216        bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 18.0
+TX: DATA         seq=936         bytes=8
+TX: DATA         seq=944         bytes=8
+TX: DATA         seq=952         bytes=8
+TX: DATA         seq=960         bytes=8
+TX: DATA         seq=968         bytes=8
+TX: DATA         seq=976         bytes=8
+TX: DATA         seq=984         bytes=8
+TX: DATA         seq=992         bytes=8
+RX: ACK          seq=952         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 18.0
+TX: DATA         seq=1000        bytes=8
+TX: DATA         seq=1008        bytes=8
+TX: DATA         seq=1016        bytes=8
+TX: DATA         seq=1024        bytes=8
+TX: DATA         seq=1032        bytes=8
+TX: DATA         seq=1040        bytes=8
+TX: DATA         seq=1048        bytes=8
+TX: DATA         seq=1056        bytes=8
+TX: DATA         seq=1064        bytes=8
+TX: DATA         seq=1072        bytes=8
+RX: ACK          seq=960         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 24 | ssthresh: 18.0
+TX: DATA         seq=1080        bytes=8
+TX: DATA         seq=1088        bytes=8
+TX: DATA         seq=1096        bytes=8
+TX: DATA         seq=1104        bytes=8
+TX: DATA         seq=1112        bytes=8
+TX: DATA         seq=1120        bytes=8
+TX: DATA         seq=1128        bytes=8
+TX: DATA         seq=1136        bytes=8
+TX: DATA         seq=1144        bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 12
+TX: DATA         seq=960         bytes=8
+TX: DATA         seq=968         bytes=8
+TX: DATA         seq=976         bytes=8
+TX: DATA         seq=984         bytes=8
+TX: DATA         seq=992         bytes=8
+TX: DATA         seq=1000        bytes=8
+TX: DATA         seq=1008        bytes=8
+TX: DATA         seq=1016        bytes=8
+RX: ACK          seq=968         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 12
+TX: DATA         seq=1024        bytes=8
+TX: DATA         seq=1032        bytes=8
+TX: DATA         seq=1040        bytes=8
+TX: DATA         seq=1048        bytes=8
+TX: DATA         seq=1056        bytes=8
+TX: DATA         seq=1064        bytes=8
+TX: DATA         seq=1072        bytes=8
+TX: DATA         seq=1080        bytes=8
+TX: DATA         seq=1088        bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 8
+TX: DATA         seq=968         bytes=8
+TX: DATA         seq=976         bytes=8
+TX: DATA         seq=984         bytes=8
+TX: DATA         seq=992         bytes=8
+TX: DATA         seq=1000        bytes=8
+TX: DATA         seq=1008        bytes=8
+TX: DATA         seq=1016        bytes=8
+TX: DATA         seq=1024        bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 4
+TX: DATA         seq=968         bytes=8
+TX: DATA         seq=976         bytes=8
+TX: DATA         seq=984         bytes=8
+TX: DATA         seq=992         bytes=8
+TX: DATA         seq=1000        bytes=8
+TX: DATA         seq=1008        bytes=8
+TX: DATA         seq=1016        bytes=8
+TX: DATA         seq=1024        bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 4
+TX: DATA         seq=968         bytes=8
+TX: DATA         seq=976         bytes=8
+TX: DATA         seq=984         bytes=8
+TX: DATA         seq=992         bytes=8
+TX: DATA         seq=1000        bytes=8
+TX: DATA         seq=1008        bytes=8
+TX: DATA         seq=1016        bytes=8
+TX: DATA         seq=1024        bytes=8
+RX: ACK          seq=976         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 4
+TX: DATA         seq=1032        bytes=8
+TX: DATA         seq=1040        bytes=8
+TX: DATA         seq=1048        bytes=8
+TX: DATA         seq=1056        bytes=8
+TX: DATA         seq=1064        bytes=8
+TX: DATA         seq=1072        bytes=8
+TX: DATA         seq=1080        bytes=8
+TX: DATA         seq=1088        bytes=8
+TX: DATA         seq=1096        bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 8
+TX: DATA         seq=976         bytes=8
+TX: DATA         seq=984         bytes=8
+TX: DATA         seq=992         bytes=8
+TX: DATA         seq=1000        bytes=8
+TX: DATA         seq=1008        bytes=8
+TX: DATA         seq=1016        bytes=8
+TX: DATA         seq=1024        bytes=8
+TX: DATA         seq=1032        bytes=8
+RX: ACK          seq=992         bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 8
+TX: DATA         seq=1040        bytes=8
+TX: DATA         seq=1048        bytes=8
+TX: DATA         seq=1056        bytes=8
+TX: DATA         seq=1064        bytes=8
+TX: DATA         seq=1072        bytes=8
+TX: DATA         seq=1080        bytes=8
+TX: DATA         seq=1088        bytes=8
+TX: DATA         seq=1096        bytes=8
+TX: DATA         seq=1104        bytes=8
+TX: DATA         seq=1112        bytes=8
+RX: ACK          seq=1000        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 20 | ssthresh: 8
+TX: DATA         seq=1120        bytes=8
+TX: DATA         seq=1128        bytes=8
+TX: DATA         seq=1136        bytes=8
+TX: DATA         seq=1144        bytes=8
+TX: DATA         seq=1152        bytes=8
+RX: ACK          seq=1016        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 24 | ssthresh: 8
+TX: DATA         seq=1160        bytes=8
+TX: DATA         seq=1168        bytes=8
+TX: DATA         seq=1176        bytes=8
+TX: DATA         seq=1184        bytes=8
+TX: DATA         seq=1192        bytes=8
+TX: DATA         seq=1200        bytes=8
+RX: ACK          seq=1024        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 26 | ssthresh: 8
+TX: DATA         seq=1208        bytes=8
+TX: DATA         seq=1216        bytes=8
+TX: DATA         seq=1224        bytes=8
+RX: ACK          seq=1032        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 29 | ssthresh: 8
+TX: DATA         seq=1232        bytes=8
+TX: DATA         seq=1240        bytes=8
+TX: DATA         seq=1248        bytes=8
+TX: DATA         seq=1256        bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 14.0
+TX: DATA         seq=1032        bytes=8
+TX: DATA         seq=1040        bytes=8
+TX: DATA         seq=1048        bytes=8
+TX: DATA         seq=1056        bytes=8
+TX: DATA         seq=1064        bytes=8
+TX: DATA         seq=1072        bytes=8
+TX: DATA         seq=1080        bytes=8
+TX: DATA         seq=1088        bytes=8
+RX: ACK          seq=1040        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 14.0
+TX: DATA         seq=1096        bytes=8
+TX: DATA         seq=1104        bytes=8
+TX: DATA         seq=1112        bytes=8
+TX: DATA         seq=1120        bytes=8
+TX: DATA         seq=1128        bytes=8
+TX: DATA         seq=1136        bytes=8
+TX: DATA         seq=1144        bytes=8
+TX: DATA         seq=1152        bytes=8
+TX: DATA         seq=1160        bytes=8
+RX: ACK          seq=1048        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 20 | ssthresh: 14.0
+TX: DATA         seq=1168        bytes=8
+TX: DATA         seq=1176        bytes=8
+TX: DATA         seq=1184        bytes=8
+TX: DATA         seq=1192        bytes=8
+TX: DATA         seq=1200        bytes=8
+RX: ACK          seq=1056        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 24 | ssthresh: 14.0
+TX: DATA         seq=1208        bytes=8
+TX: DATA         seq=1216        bytes=8
+TX: DATA         seq=1224        bytes=8
+TX: DATA         seq=1232        bytes=8
+TX: DATA         seq=1240        bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 12.0
+TX: DATA         seq=1056        bytes=8
+TX: DATA         seq=1064        bytes=8
+TX: DATA         seq=1072        bytes=8
+TX: DATA         seq=1080        bytes=8
+TX: DATA         seq=1088        bytes=8
+TX: DATA         seq=1096        bytes=8
+TX: DATA         seq=1104        bytes=8
+TX: DATA         seq=1112        bytes=8
+RX: ACK          seq=1064        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 12.0
+TX: DATA         seq=1120        bytes=8
+TX: DATA         seq=1128        bytes=8
+TX: DATA         seq=1136        bytes=8
+TX: DATA         seq=1144        bytes=8
+TX: DATA         seq=1152        bytes=8
+TX: DATA         seq=1160        bytes=8
+TX: DATA         seq=1168        bytes=8
+TX: DATA         seq=1176        bytes=8
+TX: DATA         seq=1184        bytes=8
+RX: ACK          seq=1072        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 20 | ssthresh: 12.0
+TX: DATA         seq=1192        bytes=8
+TX: DATA         seq=1200        bytes=8
+TX: DATA         seq=1208        bytes=8
+TX: DATA         seq=1216        bytes=8
+TX: DATA         seq=1224        bytes=8
+RX: ACK          seq=1080        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 24 | ssthresh: 12.0
+TX: DATA         seq=1232        bytes=8
+TX: DATA         seq=1240        bytes=8
+TX: DATA         seq=1248        bytes=8
+TX: DATA         seq=1256        bytes=8
+TX: DATA         seq=1264        bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 12.0
+TX: DATA         seq=1080        bytes=8
+TX: DATA         seq=1088        bytes=8
+TX: DATA         seq=1096        bytes=8
+TX: DATA         seq=1104        bytes=8
+TX: DATA         seq=1112        bytes=8
+TX: DATA         seq=1120        bytes=8
+TX: DATA         seq=1128        bytes=8
+TX: DATA         seq=1136        bytes=8
+RX: ACK          seq=1096        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 12.0
+TX: DATA         seq=1144        bytes=8
+TX: DATA         seq=1152        bytes=8
+TX: DATA         seq=1160        bytes=8
+TX: DATA         seq=1168        bytes=8
+TX: DATA         seq=1176        bytes=8
+TX: DATA         seq=1184        bytes=8
+TX: DATA         seq=1192        bytes=8
+TX: DATA         seq=1200        bytes=8
+TX: DATA         seq=1208        bytes=8
+TX: DATA         seq=1216        bytes=8
+RX: ACK          seq=1104        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 20 | ssthresh: 12.0
+TX: DATA         seq=1224        bytes=8
+TX: DATA         seq=1232        bytes=8
+TX: DATA         seq=1240        bytes=8
+TX: DATA         seq=1248        bytes=8
+TX: DATA         seq=1256        bytes=8
+RX: ACK          seq=1120        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 24 | ssthresh: 12.0
+TX: DATA         seq=1264        bytes=8
+TX: DATA         seq=1272        bytes=8
+TX: DATA         seq=1280        bytes=8
+TX: DATA         seq=1288        bytes=8
+TX: DATA         seq=1296        bytes=8
+TX: DATA         seq=1304        bytes=8
+RX: ACK          seq=1128        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 26 | ssthresh: 12.0
+TX: DATA         seq=1312        bytes=8
+TX: DATA         seq=1320        bytes=8
+TX: DATA         seq=1328        bytes=8
+RX: ACK          seq=1136        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 29 | ssthresh: 12.0
+TX: DATA         seq=1336        bytes=8
+TX: DATA         seq=1344        bytes=8
+TX: DATA         seq=1352        bytes=8
+TX: DATA         seq=1360        bytes=8
+RX: ACK          seq=1144        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 32 | ssthresh: 12.0
+TX: DATA         seq=1368        bytes=8
+TX: DATA         seq=1376        bytes=8
+TX: DATA         seq=1384        bytes=8
+TX: DATA         seq=1392        bytes=8
+RX: ACK          seq=1160        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 34 | ssthresh: 12.0
+TX: DATA         seq=1400        bytes=8
+TX: DATA         seq=1408        bytes=8
+TX: DATA         seq=1416        bytes=8
+TX: DATA         seq=1424        bytes=8
+RX: ACK          seq=1176        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 36 | ssthresh: 12.0
+TX: DATA         seq=1432        bytes=8
+TX: DATA         seq=1440        bytes=8
+TX: DATA         seq=1448        bytes=8
+TX: DATA         seq=1456        bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 18.0
+TX: DATA         seq=1176        bytes=8
+TX: DATA         seq=1184        bytes=8
+TX: DATA         seq=1192        bytes=8
+TX: DATA         seq=1200        bytes=8
+TX: DATA         seq=1208        bytes=8
+TX: DATA         seq=1216        bytes=8
+TX: DATA         seq=1224        bytes=8
+TX: DATA         seq=1232        bytes=8
+RX: ACK          seq=1184        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 18.0
+TX: DATA         seq=1240        bytes=8
+TX: DATA         seq=1248        bytes=8
+TX: DATA         seq=1256        bytes=8
+TX: DATA         seq=1264        bytes=8
+TX: DATA         seq=1272        bytes=8
+TX: DATA         seq=1280        bytes=8
+TX: DATA         seq=1288        bytes=8
+TX: DATA         seq=1296        bytes=8
+TX: DATA         seq=1304        bytes=8
+RX: ACK          seq=1192        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 24 | ssthresh: 18.0
+TX: DATA         seq=1312        bytes=8
+TX: DATA         seq=1320        bytes=8
+TX: DATA         seq=1328        bytes=8
+TX: DATA         seq=1336        bytes=8
+TX: DATA         seq=1344        bytes=8
+TX: DATA         seq=1352        bytes=8
+TX: DATA         seq=1360        bytes=8
+TX: DATA         seq=1368        bytes=8
+TX: DATA         seq=1376        bytes=8
+RX: ACK          seq=1200        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 26 | ssthresh: 18.0
+TX: DATA         seq=1384        bytes=8
+TX: DATA         seq=1392        bytes=8
+TX: DATA         seq=1400        bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 13.0
+TX: DATA         seq=1200        bytes=8
+TX: DATA         seq=1208        bytes=8
+TX: DATA         seq=1216        bytes=8
+TX: DATA         seq=1224        bytes=8
+TX: DATA         seq=1232        bytes=8
+TX: DATA         seq=1240        bytes=8
+TX: DATA         seq=1248        bytes=8
+TX: DATA         seq=1256        bytes=8
+RX: ACK          seq=1208        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 13.0
+TX: DATA         seq=1264        bytes=8
+TX: DATA         seq=1272        bytes=8
+TX: DATA         seq=1280        bytes=8
+TX: DATA         seq=1288        bytes=8
+TX: DATA         seq=1296        bytes=8
+TX: DATA         seq=1304        bytes=8
+TX: DATA         seq=1312        bytes=8
+TX: DATA         seq=1320        bytes=8
+TX: DATA         seq=1328        bytes=8
+RX: ACK          seq=1216        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 20 | ssthresh: 13.0
+TX: DATA         seq=1336        bytes=8
+TX: DATA         seq=1344        bytes=8
+TX: DATA         seq=1352        bytes=8
+TX: DATA         seq=1360        bytes=8
+TX: DATA         seq=1368        bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 10.0
+TX: DATA         seq=1216        bytes=8
+TX: DATA         seq=1224        bytes=8
+TX: DATA         seq=1232        bytes=8
+TX: DATA         seq=1240        bytes=8
+TX: DATA         seq=1248        bytes=8
+TX: DATA         seq=1256        bytes=8
+TX: DATA         seq=1264        bytes=8
+TX: DATA         seq=1272        bytes=8
+RX: ACK          seq=1224        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 10.0
+TX: DATA         seq=1280        bytes=8
+TX: DATA         seq=1288        bytes=8
+TX: DATA         seq=1296        bytes=8
+TX: DATA         seq=1304        bytes=8
+TX: DATA         seq=1312        bytes=8
+TX: DATA         seq=1320        bytes=8
+TX: DATA         seq=1328        bytes=8
+TX: DATA         seq=1336        bytes=8
+TX: DATA         seq=1344        bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 8
+TX: DATA         seq=1224        bytes=8
+TX: DATA         seq=1232        bytes=8
+TX: DATA         seq=1240        bytes=8
+TX: DATA         seq=1248        bytes=8
+TX: DATA         seq=1256        bytes=8
+TX: DATA         seq=1264        bytes=8
+TX: DATA         seq=1272        bytes=8
+TX: DATA         seq=1280        bytes=8
+RX: ACK          seq=1232        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 8
+TX: DATA         seq=1288        bytes=8
+TX: DATA         seq=1296        bytes=8
+TX: DATA         seq=1304        bytes=8
+TX: DATA         seq=1312        bytes=8
+TX: DATA         seq=1320        bytes=8
+TX: DATA         seq=1328        bytes=8
+TX: DATA         seq=1336        bytes=8
+TX: DATA         seq=1344        bytes=8
+TX: DATA         seq=1352        bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 8
+TX: DATA         seq=1232        bytes=8
+TX: DATA         seq=1240        bytes=8
+TX: DATA         seq=1248        bytes=8
+TX: DATA         seq=1256        bytes=8
+TX: DATA         seq=1264        bytes=8
+TX: DATA         seq=1272        bytes=8
+TX: DATA         seq=1280        bytes=8
+TX: DATA         seq=1288        bytes=8
+RX: ACK          seq=1240        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 8
+TX: DATA         seq=1296        bytes=8
+TX: DATA         seq=1304        bytes=8
+TX: DATA         seq=1312        bytes=8
+TX: DATA         seq=1320        bytes=8
+TX: DATA         seq=1328        bytes=8
+TX: DATA         seq=1336        bytes=8
+TX: DATA         seq=1344        bytes=8
+TX: DATA         seq=1352        bytes=8
+TX: DATA         seq=1360        bytes=8
+RX: ACK          seq=1256        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 20 | ssthresh: 8
+TX: DATA         seq=1368        bytes=8
+TX: DATA         seq=1376        bytes=8
+TX: DATA         seq=1384        bytes=8
+TX: DATA         seq=1392        bytes=8
+TX: DATA         seq=1400        bytes=8
+TX: DATA         seq=1408        bytes=8
+RX: ACK          seq=1264        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 24 | ssthresh: 8
+TX: DATA         seq=1416        bytes=8
+TX: DATA         seq=1424        bytes=8
+TX: DATA         seq=1432        bytes=8
+TX: DATA         seq=1440        bytes=8
+TX: DATA         seq=1448        bytes=8
+RX: ACK          seq=1272        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 26 | ssthresh: 8
+TX: DATA         seq=1456        bytes=8
+TX: DATA         seq=1464        bytes=8
+TX: DATA         seq=1472        bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 13.0
+TX: DATA         seq=1272        bytes=8
+TX: DATA         seq=1280        bytes=8
+TX: DATA         seq=1288        bytes=8
+TX: DATA         seq=1296        bytes=8
+TX: DATA         seq=1304        bytes=8
+TX: DATA         seq=1312        bytes=8
+TX: DATA         seq=1320        bytes=8
+TX: DATA         seq=1328        bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 4
+TX: DATA         seq=1272        bytes=8
+TX: DATA         seq=1280        bytes=8
+TX: DATA         seq=1288        bytes=8
+TX: DATA         seq=1296        bytes=8
+TX: DATA         seq=1304        bytes=8
+TX: DATA         seq=1312        bytes=8
+TX: DATA         seq=1320        bytes=8
+TX: DATA         seq=1328        bytes=8
+RX: ACK          seq=1288        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 4
+TX: DATA         seq=1336        bytes=8
+TX: DATA         seq=1344        bytes=8
+TX: DATA         seq=1352        bytes=8
+TX: DATA         seq=1360        bytes=8
+TX: DATA         seq=1368        bytes=8
+TX: DATA         seq=1376        bytes=8
+TX: DATA         seq=1384        bytes=8
+TX: DATA         seq=1392        bytes=8
+TX: DATA         seq=1400        bytes=8
+TX: DATA         seq=1408        bytes=8
+RX: ACK          seq=1296        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 20 | ssthresh: 4
+TX: DATA         seq=1416        bytes=8
+TX: DATA         seq=1424        bytes=8
+TX: DATA         seq=1432        bytes=8
+TX: DATA         seq=1440        bytes=8
+TX: DATA         seq=1448        bytes=8
+RX: ACK          seq=1304        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 24 | ssthresh: 4
+TX: DATA         seq=1456        bytes=8
+TX: DATA         seq=1464        bytes=8
+TX: DATA         seq=1472        bytes=8
+TX: DATA         seq=1480        bytes=8
+TX: DATA         seq=1488        bytes=8
+RX: ACK          seq=1312        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 26 | ssthresh: 4
+TX: DATA         seq=1496        bytes=8
+TX: DATA         seq=1504        bytes=8
+TX: DATA         seq=1512        bytes=8
+RX: ACK          seq=1320        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 29 | ssthresh: 4
+TX: DATA         seq=1520        bytes=8
+TX: DATA         seq=1528        bytes=8
+TX: DATA         seq=1536        bytes=8
+TX: DATA         seq=1544        bytes=8
+RX: ACK          seq=1328        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 32 | ssthresh: 4
+TX: DATA         seq=1552        bytes=8
+TX: DATA         seq=1560        bytes=8
+TX: DATA         seq=1568        bytes=8
+TX: DATA         seq=1576        bytes=8
+RX: ACK          seq=1336        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 34 | ssthresh: 4
+TX: DATA         seq=1584        bytes=8
+TX: DATA         seq=1592        bytes=8
+TX: DATA         seq=1600        bytes=8
+RX: ACK          seq=1344        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 36 | ssthresh: 4
+TX: DATA         seq=1608        bytes=8
+TX: DATA         seq=1616        bytes=8
+TX: DATA         seq=1624        bytes=8
+RX: ACK          seq=1352        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 38 | ssthresh: 4
+TX: DATA         seq=1632        bytes=8
+TX: DATA         seq=1640        bytes=8
+TX: DATA         seq=1648        bytes=8
+RX: ACK          seq=1360        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 40 | ssthresh: 4
+TX: DATA         seq=1656        bytes=8
+TX: DATA         seq=1664        bytes=8
+TX: DATA         seq=1672        bytes=8
+RX: ACK          seq=1368        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 41 | ssthresh: 4
+TX: DATA         seq=1680        bytes=8
+TX: DATA         seq=1688        bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 20.0
+TX: DATA         seq=1368        bytes=8
+TX: DATA         seq=1376        bytes=8
+TX: DATA         seq=1384        bytes=8
+TX: DATA         seq=1392        bytes=8
+TX: DATA         seq=1400        bytes=8
+TX: DATA         seq=1408        bytes=8
+TX: DATA         seq=1416        bytes=8
+TX: DATA         seq=1424        bytes=8
+RX: ACK          seq=1376        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 20.0
+TX: DATA         seq=1432        bytes=8
+TX: DATA         seq=1440        bytes=8
+TX: DATA         seq=1448        bytes=8
+TX: DATA         seq=1456        bytes=8
+TX: DATA         seq=1464        bytes=8
+TX: DATA         seq=1472        bytes=8
+TX: DATA         seq=1480        bytes=8
+TX: DATA         seq=1488        bytes=8
+TX: DATA         seq=1496        bytes=8
+RX: ACK          seq=1384        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 24 | ssthresh: 20.0
+TX: DATA         seq=1504        bytes=8
+TX: DATA         seq=1512        bytes=8
+TX: DATA         seq=1520        bytes=8
+TX: DATA         seq=1528        bytes=8
+TX: DATA         seq=1536        bytes=8
+TX: DATA         seq=1544        bytes=8
+TX: DATA         seq=1552        bytes=8
+TX: DATA         seq=1560        bytes=8
+TX: DATA         seq=1568        bytes=8
+RX: ACK          seq=1392        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 26 | ssthresh: 20.0
+TX: DATA         seq=1576        bytes=8
+TX: DATA         seq=1584        bytes=8
+TX: DATA         seq=1592        bytes=8
+RX: ACK          seq=1400        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 29 | ssthresh: 20.0
+TX: DATA         seq=1600        bytes=8
+TX: DATA         seq=1608        bytes=8
+TX: DATA         seq=1616        bytes=8
+TX: DATA         seq=1624        bytes=8
+RX: ACK          seq=1408        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 32 | ssthresh: 20.0
+TX: DATA         seq=1632        bytes=8
+TX: DATA         seq=1640        bytes=8
+TX: DATA         seq=1648        bytes=8
+TX: DATA         seq=1656        bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 16.0
+TX: DATA         seq=1408        bytes=8
+TX: DATA         seq=1416        bytes=8
+TX: DATA         seq=1424        bytes=8
+TX: DATA         seq=1432        bytes=8
+TX: DATA         seq=1440        bytes=8
+TX: DATA         seq=1448        bytes=8
+TX: DATA         seq=1456        bytes=8
+TX: DATA         seq=1464        bytes=8
+RX: ACK          seq=1424        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 16.0
+TX: DATA         seq=1472        bytes=8
+TX: DATA         seq=1480        bytes=8
+TX: DATA         seq=1488        bytes=8
+TX: DATA         seq=1496        bytes=8
+TX: DATA         seq=1504        bytes=8
+TX: DATA         seq=1512        bytes=8
+TX: DATA         seq=1520        bytes=8
+TX: DATA         seq=1528        bytes=8
+TX: DATA         seq=1536        bytes=8
+TX: DATA         seq=1544        bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 8
+TX: DATA         seq=1424        bytes=8
+TX: DATA         seq=1432        bytes=8
+TX: DATA         seq=1440        bytes=8
+TX: DATA         seq=1448        bytes=8
+TX: DATA         seq=1456        bytes=8
+TX: DATA         seq=1464        bytes=8
+TX: DATA         seq=1472        bytes=8
+TX: DATA         seq=1480        bytes=8
+RX: ACK          seq=1432        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 8
+TX: DATA         seq=1488        bytes=8
+TX: DATA         seq=1496        bytes=8
+TX: DATA         seq=1504        bytes=8
+TX: DATA         seq=1512        bytes=8
+TX: DATA         seq=1520        bytes=8
+TX: DATA         seq=1528        bytes=8
+TX: DATA         seq=1536        bytes=8
+TX: DATA         seq=1544        bytes=8
+TX: DATA         seq=1552        bytes=8
+RX: ACK          seq=1440        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 20 | ssthresh: 8
+TX: DATA         seq=1560        bytes=8
+TX: DATA         seq=1568        bytes=8
+TX: DATA         seq=1576        bytes=8
+TX: DATA         seq=1584        bytes=8
+TX: DATA         seq=1592        bytes=8
+RX: ACK          seq=1448        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 24 | ssthresh: 8
+TX: DATA         seq=1600        bytes=8
+TX: DATA         seq=1608        bytes=8
+TX: DATA         seq=1616        bytes=8
+TX: DATA         seq=1624        bytes=8
+TX: DATA         seq=1632        bytes=8
+RX: ACK          seq=1456        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 26 | ssthresh: 8
+TX: DATA         seq=1640        bytes=8
+TX: DATA         seq=1648        bytes=8
+TX: DATA         seq=1656        bytes=8
+RX: ACK          seq=1488        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 29 | ssthresh: 8
+TX: DATA         seq=1664        bytes=8
+TX: DATA         seq=1672        bytes=8
+TX: DATA         seq=1680        bytes=8
+TX: DATA         seq=1688        bytes=8
+TX: DATA         seq=1696        bytes=8
+TX: DATA         seq=1704        bytes=8
+TX: DATA         seq=1712        bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 14.0
+TX: DATA         seq=1488        bytes=8
+TX: DATA         seq=1496        bytes=8
+TX: DATA         seq=1504        bytes=8
+TX: DATA         seq=1512        bytes=8
+TX: DATA         seq=1520        bytes=8
+TX: DATA         seq=1528        bytes=8
+TX: DATA         seq=1536        bytes=8
+TX: DATA         seq=1544        bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 4
+TX: DATA         seq=1488        bytes=8
+TX: DATA         seq=1496        bytes=8
+TX: DATA         seq=1504        bytes=8
+TX: DATA         seq=1512        bytes=8
+TX: DATA         seq=1520        bytes=8
+TX: DATA         seq=1528        bytes=8
+TX: DATA         seq=1536        bytes=8
+TX: DATA         seq=1544        bytes=8
+RX: ACK          seq=1496        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 4
+TX: DATA         seq=1552        bytes=8
+TX: DATA         seq=1560        bytes=8
+TX: DATA         seq=1568        bytes=8
+TX: DATA         seq=1576        bytes=8
+TX: DATA         seq=1584        bytes=8
+TX: DATA         seq=1592        bytes=8
+TX: DATA         seq=1600        bytes=8
+TX: DATA         seq=1608        bytes=8
+TX: DATA         seq=1616        bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 8
+TX: DATA         seq=1496        bytes=8
+TX: DATA         seq=1504        bytes=8
+TX: DATA         seq=1512        bytes=8
+TX: DATA         seq=1520        bytes=8
+TX: DATA         seq=1528        bytes=8
+TX: DATA         seq=1536        bytes=8
+TX: DATA         seq=1544        bytes=8
+TX: DATA         seq=1552        bytes=8
+RX: ACK          seq=1512        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 8
+TX: DATA         seq=1560        bytes=8
+TX: DATA         seq=1568        bytes=8
+TX: DATA         seq=1576        bytes=8
+TX: DATA         seq=1584        bytes=8
+TX: DATA         seq=1592        bytes=8
+TX: DATA         seq=1600        bytes=8
+TX: DATA         seq=1608        bytes=8
+TX: DATA         seq=1616        bytes=8
+TX: DATA         seq=1624        bytes=8
+TX: DATA         seq=1632        bytes=8
+RX: ACK          seq=1520        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 20 | ssthresh: 8
+TX: DATA         seq=1640        bytes=8
+TX: DATA         seq=1648        bytes=8
+TX: DATA         seq=1656        bytes=8
+TX: DATA         seq=1664        bytes=8
+TX: DATA         seq=1672        bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 10.0
+TX: DATA         seq=1520        bytes=8
+TX: DATA         seq=1528        bytes=8
+TX: DATA         seq=1536        bytes=8
+TX: DATA         seq=1544        bytes=8
+TX: DATA         seq=1552        bytes=8
+TX: DATA         seq=1560        bytes=8
+TX: DATA         seq=1568        bytes=8
+TX: DATA         seq=1576        bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 4
+TX: DATA         seq=1520        bytes=8
+TX: DATA         seq=1528        bytes=8
+TX: DATA         seq=1536        bytes=8
+TX: DATA         seq=1544        bytes=8
+TX: DATA         seq=1552        bytes=8
+TX: DATA         seq=1560        bytes=8
+TX: DATA         seq=1568        bytes=8
+TX: DATA         seq=1576        bytes=8
+RX: ACK          seq=1528        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 4
+TX: DATA         seq=1584        bytes=8
+TX: DATA         seq=1592        bytes=8
+TX: DATA         seq=1600        bytes=8
+TX: DATA         seq=1608        bytes=8
+TX: DATA         seq=1616        bytes=8
+TX: DATA         seq=1624        bytes=8
+TX: DATA         seq=1632        bytes=8
+TX: DATA         seq=1640        bytes=8
+TX: DATA         seq=1648        bytes=8
+RX: ACK          seq=1536        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 20 | ssthresh: 4
+TX: DATA         seq=1656        bytes=8
+TX: DATA         seq=1664        bytes=8
+TX: DATA         seq=1672        bytes=8
+TX: DATA         seq=1680        bytes=8
+TX: DATA         seq=1688        bytes=8
+RX: ACK          seq=1544        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 24 | ssthresh: 4
+TX: DATA         seq=1696        bytes=8
+TX: DATA         seq=1704        bytes=8
+TX: DATA         seq=1712        bytes=8
+TX: DATA         seq=1720        bytes=8
+TX: DATA         seq=1728        bytes=8
+RX: ACK          seq=1552        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 26 | ssthresh: 4
+TX: DATA         seq=1736        bytes=8
+TX: DATA         seq=1744        bytes=8
+TX: DATA         seq=1752        bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 13.0
+TX: DATA         seq=1552        bytes=8
+TX: DATA         seq=1560        bytes=8
+TX: DATA         seq=1568        bytes=8
+TX: DATA         seq=1576        bytes=8
+TX: DATA         seq=1584        bytes=8
+TX: DATA         seq=1592        bytes=8
+TX: DATA         seq=1600        bytes=8
+TX: DATA         seq=1608        bytes=8
+RX: ACK          seq=1568        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 13.0
+TX: DATA         seq=1616        bytes=8
+TX: DATA         seq=1624        bytes=8
+TX: DATA         seq=1632        bytes=8
+TX: DATA         seq=1640        bytes=8
+TX: DATA         seq=1648        bytes=8
+TX: DATA         seq=1656        bytes=8
+TX: DATA         seq=1664        bytes=8
+TX: DATA         seq=1672        bytes=8
+TX: DATA         seq=1680        bytes=8
+TX: DATA         seq=1688        bytes=8
+RX: ACK          seq=1568        bytes=0
+RX: ACK          seq=1576        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 20 | ssthresh: 13.0
+TX: DATA         seq=1696        bytes=8
+TX: DATA         seq=1704        bytes=8
+TX: DATA         seq=1712        bytes=8
+TX: DATA         seq=1720        bytes=8
+TX: DATA         seq=1728        bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 10.0
+TX: DATA         seq=1576        bytes=8
+TX: DATA         seq=1584        bytes=8
+TX: DATA         seq=1592        bytes=8
+TX: DATA         seq=1600        bytes=8
+TX: DATA         seq=1608        bytes=8
+TX: DATA         seq=1616        bytes=8
+TX: DATA         seq=1624        bytes=8
+TX: DATA         seq=1632        bytes=8
+RX: ACK          seq=1584        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 10.0
+TX: DATA         seq=1640        bytes=8
+TX: DATA         seq=1648        bytes=8
+TX: DATA         seq=1656        bytes=8
+TX: DATA         seq=1664        bytes=8
+TX: DATA         seq=1672        bytes=8
+TX: DATA         seq=1680        bytes=8
+TX: DATA         seq=1688        bytes=8
+TX: DATA         seq=1696        bytes=8
+TX: DATA         seq=1704        bytes=8
+RX: ACK          seq=1600        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 20 | ssthresh: 10.0
+TX: DATA         seq=1712        bytes=8
+TX: DATA         seq=1720        bytes=8
+TX: DATA         seq=1728        bytes=8
+TX: DATA         seq=1736        bytes=8
+TX: DATA         seq=1744        bytes=8
+TX: DATA         seq=1752        bytes=8
+RX: ACK          seq=1608        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 24 | ssthresh: 10.0
+TX: DATA         seq=1760        bytes=8
+TX: DATA         seq=1768        bytes=8
+TX: DATA         seq=1776        bytes=8
+TX: DATA         seq=1784        bytes=8
+TX: DATA         seq=1792        bytes=8
+RX: ACK          seq=1616        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 26 | ssthresh: 10.0
+TX: DATA         seq=1800        bytes=8
+TX: DATA         seq=1808        bytes=8
+TX: DATA         seq=1816        bytes=8
+RX: ACK          seq=1624        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 29 | ssthresh: 10.0
+TX: DATA         seq=1824        bytes=8
+TX: DATA         seq=1832        bytes=8
+TX: DATA         seq=1840        bytes=8
+TX: DATA         seq=1848        bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 14.0
+TX: DATA         seq=1624        bytes=8
+TX: DATA         seq=1632        bytes=8
+TX: DATA         seq=1640        bytes=8
+TX: DATA         seq=1648        bytes=8
+TX: DATA         seq=1656        bytes=8
+TX: DATA         seq=1664        bytes=8
+TX: DATA         seq=1672        bytes=8
+TX: DATA         seq=1680        bytes=8
+RX: ACK          seq=1632        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 14.0
+TX: DATA         seq=1688        bytes=8
+TX: DATA         seq=1696        bytes=8
+TX: DATA         seq=1704        bytes=8
+TX: DATA         seq=1712        bytes=8
+TX: DATA         seq=1720        bytes=8
+TX: DATA         seq=1728        bytes=8
+TX: DATA         seq=1736        bytes=8
+TX: DATA         seq=1744        bytes=8
+TX: DATA         seq=1752        bytes=8
+RX: ACK          seq=1640        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 20 | ssthresh: 14.0
+TX: DATA         seq=1760        bytes=8
+TX: DATA         seq=1768        bytes=8
+TX: DATA         seq=1776        bytes=8
+TX: DATA         seq=1784        bytes=8
+TX: DATA         seq=1792        bytes=8
+RX: ACK          seq=1648        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 24 | ssthresh: 14.0
+TX: DATA         seq=1800        bytes=8
+TX: DATA         seq=1808        bytes=8
+TX: DATA         seq=1816        bytes=8
+TX: DATA         seq=1824        bytes=8
+TX: DATA         seq=1832        bytes=8
+RX: ACK          seq=1656        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 26 | ssthresh: 14.0
+TX: DATA         seq=1840        bytes=8
+TX: DATA         seq=1848        bytes=8
+TX: DATA         seq=1856        bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 13.0
+TX: DATA         seq=1656        bytes=8
+TX: DATA         seq=1664        bytes=8
+TX: DATA         seq=1672        bytes=8
+TX: DATA         seq=1680        bytes=8
+TX: DATA         seq=1688        bytes=8
+TX: DATA         seq=1696        bytes=8
+TX: DATA         seq=1704        bytes=8
+TX: DATA         seq=1712        bytes=8
+RX: ACK          seq=1664        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 13.0
+TX: DATA         seq=1720        bytes=8
+TX: DATA         seq=1728        bytes=8
+TX: DATA         seq=1736        bytes=8
+TX: DATA         seq=1744        bytes=8
+TX: DATA         seq=1752        bytes=8
+TX: DATA         seq=1760        bytes=8
+TX: DATA         seq=1768        bytes=8
+TX: DATA         seq=1776        bytes=8
+TX: DATA         seq=1784        bytes=8
+RX: ACK          seq=1672        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 20 | ssthresh: 13.0
+TX: DATA         seq=1792        bytes=8
+TX: DATA         seq=1800        bytes=8
+TX: DATA         seq=1808        bytes=8
+TX: DATA         seq=1816        bytes=8
+TX: DATA         seq=1824        bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 10.0
+TX: DATA         seq=1672        bytes=8
+TX: DATA         seq=1680        bytes=8
+TX: DATA         seq=1688        bytes=8
+TX: DATA         seq=1696        bytes=8
+TX: DATA         seq=1704        bytes=8
+TX: DATA         seq=1712        bytes=8
+TX: DATA         seq=1720        bytes=8
+TX: DATA         seq=1728        bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 4
+TX: DATA         seq=1672        bytes=8
+TX: DATA         seq=1680        bytes=8
+TX: DATA         seq=1688        bytes=8
+TX: DATA         seq=1696        bytes=8
+TX: DATA         seq=1704        bytes=8
+TX: DATA         seq=1712        bytes=8
+TX: DATA         seq=1720        bytes=8
+TX: DATA         seq=1728        bytes=8
+RX: ACK          seq=1688        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 4
+TX: DATA         seq=1736        bytes=8
+TX: DATA         seq=1744        bytes=8
+TX: DATA         seq=1752        bytes=8
+TX: DATA         seq=1760        bytes=8
+TX: DATA         seq=1768        bytes=8
+TX: DATA         seq=1776        bytes=8
+TX: DATA         seq=1784        bytes=8
+TX: DATA         seq=1792        bytes=8
+TX: DATA         seq=1800        bytes=8
+TX: DATA         seq=1808        bytes=8
+RX: ACK          seq=1696        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 20 | ssthresh: 4
+TX: DATA         seq=1816        bytes=8
+TX: DATA         seq=1824        bytes=8
+TX: DATA         seq=1832        bytes=8
+TX: DATA         seq=1840        bytes=8
+TX: DATA         seq=1848        bytes=8
+RX: ACK          seq=1704        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 24 | ssthresh: 4
+TX: DATA         seq=1856        bytes=8
+TX: DATA         seq=1864        bytes=8
+TX: DATA         seq=1872        bytes=8
+TX: DATA         seq=1880        bytes=8
+TX: DATA         seq=1888        bytes=8
+RX: ACK          seq=1712        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 26 | ssthresh: 4
+TX: DATA         seq=1896        bytes=8
+TX: DATA         seq=1904        bytes=8
+TX: DATA         seq=1912        bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 13.0
+TX: DATA         seq=1712        bytes=8
+TX: DATA         seq=1720        bytes=8
+TX: DATA         seq=1728        bytes=8
+TX: DATA         seq=1736        bytes=8
+TX: DATA         seq=1744        bytes=8
+TX: DATA         seq=1752        bytes=8
+TX: DATA         seq=1760        bytes=8
+TX: DATA         seq=1768        bytes=8
+RX: ACK          seq=1720        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 13.0
+TX: DATA         seq=1776        bytes=8
+TX: DATA         seq=1784        bytes=8
+TX: DATA         seq=1792        bytes=8
+TX: DATA         seq=1800        bytes=8
+TX: DATA         seq=1808        bytes=8
+TX: DATA         seq=1816        bytes=8
+TX: DATA         seq=1824        bytes=8
+TX: DATA         seq=1832        bytes=8
+TX: DATA         seq=1840        bytes=8
+RX: ACK          seq=1728        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 20 | ssthresh: 13.0
+TX: DATA         seq=1848        bytes=8
+TX: DATA         seq=1856        bytes=8
+TX: DATA         seq=1864        bytes=8
+TX: DATA         seq=1872        bytes=8
+TX: DATA         seq=1880        bytes=8
+RX: ACK          seq=1736        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 24 | ssthresh: 13.0
+TX: DATA         seq=1888        bytes=8
+TX: DATA         seq=1896        bytes=8
+TX: DATA         seq=1904        bytes=8
+TX: DATA         seq=1912        bytes=8
+TX: DATA         seq=1920        bytes=8
+RX: ACK          seq=1744        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 26 | ssthresh: 13.0
+TX: DATA         seq=1928        bytes=8
+TX: DATA         seq=1936        bytes=8
+TX: DATA         seq=1944        bytes=8
+RX: ACK          seq=1752        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 29 | ssthresh: 13.0
+TX: DATA         seq=1952        bytes=8
+TX: DATA         seq=1960        bytes=8
+TX: DATA         seq=1968        bytes=8
+TX: DATA         seq=1976        bytes=8
+RX: ACK          seq=1760        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 32 | ssthresh: 13.0
+TX: DATA         seq=1984        bytes=8
+TX: DATA         seq=1992        bytes=8
+TX: DATA         seq=2000        bytes=8
+TX: DATA         seq=2008        bytes=8
+RX: ACK          seq=1768        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 34 | ssthresh: 13.0
+TX: DATA         seq=2016        bytes=8
+TX: DATA         seq=2024        bytes=8
+TX: DATA         seq=2032        bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 17.0
+TX: DATA         seq=1768        bytes=8
+TX: DATA         seq=1776        bytes=8
+TX: DATA         seq=1784        bytes=8
+TX: DATA         seq=1792        bytes=8
+TX: DATA         seq=1800        bytes=8
+TX: DATA         seq=1808        bytes=8
+TX: DATA         seq=1816        bytes=8
+TX: DATA         seq=1824        bytes=8
+RX: ACK          seq=1776        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 17.0
+TX: DATA         seq=1832        bytes=8
+TX: DATA         seq=1840        bytes=8
+TX: DATA         seq=1848        bytes=8
+TX: DATA         seq=1856        bytes=8
+TX: DATA         seq=1864        bytes=8
+TX: DATA         seq=1872        bytes=8
+TX: DATA         seq=1880        bytes=8
+TX: DATA         seq=1888        bytes=8
+TX: DATA         seq=1896        bytes=8
+RX: ACK          seq=1792        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 24 | ssthresh: 17.0
+TX: DATA         seq=1904        bytes=8
+TX: DATA         seq=1912        bytes=8
+TX: DATA         seq=1920        bytes=8
+TX: DATA         seq=1928        bytes=8
+TX: DATA         seq=1936        bytes=8
+TX: DATA         seq=1944        bytes=8
+TX: DATA         seq=1952        bytes=8
+TX: DATA         seq=1960        bytes=8
+TX: DATA         seq=1968        bytes=8
+TX: DATA         seq=1976        bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 12
+TX: DATA         seq=1792        bytes=8
+TX: DATA         seq=1800        bytes=8
+TX: DATA         seq=1808        bytes=8
+TX: DATA         seq=1816        bytes=8
+TX: DATA         seq=1824        bytes=8
+TX: DATA         seq=1832        bytes=8
+TX: DATA         seq=1840        bytes=8
+TX: DATA         seq=1848        bytes=8
+RX: ACK          seq=1800        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 12
+TX: DATA         seq=1856        bytes=8
+TX: DATA         seq=1864        bytes=8
+TX: DATA         seq=1872        bytes=8
+TX: DATA         seq=1880        bytes=8
+TX: DATA         seq=1888        bytes=8
+TX: DATA         seq=1896        bytes=8
+TX: DATA         seq=1904        bytes=8
+TX: DATA         seq=1912        bytes=8
+TX: DATA         seq=1920        bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 8
+TX: DATA         seq=1800        bytes=8
+TX: DATA         seq=1808        bytes=8
+TX: DATA         seq=1816        bytes=8
+TX: DATA         seq=1824        bytes=8
+TX: DATA         seq=1832        bytes=8
+TX: DATA         seq=1840        bytes=8
+TX: DATA         seq=1848        bytes=8
+TX: DATA         seq=1856        bytes=8
+RX: ACK          seq=1816        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 8
+TX: DATA         seq=1864        bytes=8
+TX: DATA         seq=1872        bytes=8
+TX: DATA         seq=1880        bytes=8
+TX: DATA         seq=1888        bytes=8
+TX: DATA         seq=1896        bytes=8
+TX: DATA         seq=1904        bytes=8
+TX: DATA         seq=1912        bytes=8
+TX: DATA         seq=1920        bytes=8
+TX: DATA         seq=1928        bytes=8
+TX: DATA         seq=1936        bytes=8
+RX: ACK          seq=1824        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 20 | ssthresh: 8
+TX: DATA         seq=1944        bytes=8
+TX: DATA         seq=1952        bytes=8
+TX: DATA         seq=1960        bytes=8
+TX: DATA         seq=1968        bytes=8
+TX: DATA         seq=1976        bytes=8
+RX: ACK          seq=1832        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 24 | ssthresh: 8
+TX: DATA         seq=1984        bytes=8
+TX: DATA         seq=1992        bytes=8
+TX: DATA         seq=2000        bytes=8
+TX: DATA         seq=2008        bytes=8
+TX: DATA         seq=2016        bytes=8
+RX: ACK          seq=1840        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 26 | ssthresh: 8
+TX: DATA         seq=2024        bytes=8
+TX: DATA         seq=2032        bytes=8
+TX: DATA         seq=2040        bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 13.0
+TX: DATA         seq=1840        bytes=8
+TX: DATA         seq=1848        bytes=8
+TX: DATA         seq=1856        bytes=8
+TX: DATA         seq=1864        bytes=8
+TX: DATA         seq=1872        bytes=8
+TX: DATA         seq=1880        bytes=8
+TX: DATA         seq=1888        bytes=8
+TX: DATA         seq=1896        bytes=8
+RX: ACK          seq=1848        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 13.0
+TX: DATA         seq=1904        bytes=8
+TX: DATA         seq=1912        bytes=8
+TX: DATA         seq=1920        bytes=8
+TX: DATA         seq=1928        bytes=8
+TX: DATA         seq=1936        bytes=8
+TX: DATA         seq=1944        bytes=8
+TX: DATA         seq=1952        bytes=8
+TX: DATA         seq=1960        bytes=8
+TX: DATA         seq=1968        bytes=8
+RX: ACK          seq=1856        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 20 | ssthresh: 13.0
+TX: DATA         seq=1976        bytes=8
+TX: DATA         seq=1984        bytes=8
+TX: DATA         seq=1992        bytes=8
+TX: DATA         seq=2000        bytes=8
+TX: DATA         seq=2008        bytes=8
+RX: ACK          seq=1864        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 24 | ssthresh: 13.0
+TX: DATA         seq=2016        bytes=8
+TX: DATA         seq=2024        bytes=8
+TX: DATA         seq=2032        bytes=8
+TX: DATA         seq=2040        bytes=8
+TX: DATA         seq=2048        bytes=8
+RX: ACK          seq=1880        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 26 | ssthresh: 13.0
+TX: DATA         seq=2056        bytes=8
+TX: DATA         seq=2064        bytes=8
+TX: DATA         seq=2072        bytes=8
+RX: ACK          seq=1888        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 29 | ssthresh: 13.0
+RX: ACK          seq=1896        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 32 | ssthresh: 13.0
+RX: ACK          seq=1904        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 34 | ssthresh: 13.0
+RX: ACK          seq=1920        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 36 | ssthresh: 13.0
+RX: ACK          seq=1928        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 38 | ssthresh: 13.0
+RX: ACK          seq=1936        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 40 | ssthresh: 13.0
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 20.0
+TX: DATA         seq=1936        bytes=8
+TX: DATA         seq=1944        bytes=8
+TX: DATA         seq=1952        bytes=8
+TX: DATA         seq=1960        bytes=8
+TX: DATA         seq=1968        bytes=8
+TX: DATA         seq=1976        bytes=8
+TX: DATA         seq=1984        bytes=8
+TX: DATA         seq=1992        bytes=8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 4
+TX: DATA         seq=1936        bytes=8
+TX: DATA         seq=1944        bytes=8
+TX: DATA         seq=1952        bytes=8
+TX: DATA         seq=1960        bytes=8
+TX: DATA         seq=1968        bytes=8
+TX: DATA         seq=1976        bytes=8
+TX: DATA         seq=1984        bytes=8
+TX: DATA         seq=1992        bytes=8
+RX: ACK          seq=1944        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 4
+TX: DATA         seq=2000        bytes=8
+TX: DATA         seq=2008        bytes=8
+TX: DATA         seq=2016        bytes=8
+TX: DATA         seq=2024        bytes=8
+TX: DATA         seq=2032        bytes=8
+TX: DATA         seq=2040        bytes=8
+TX: DATA         seq=2048        bytes=8
+TX: DATA         seq=2056        bytes=8
+TX: DATA         seq=2064        bytes=8
+RX: ACK          seq=1960        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 20 | ssthresh: 4
+TX: DATA         seq=2072        bytes=8
+RX: ACK          seq=1968        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 24 | ssthresh: 4
+RX: ACK          seq=1976        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 26 | ssthresh: 4
+RX: ACK          seq=1984        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 29 | ssthresh: 4
+RX: ACK          seq=1992        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 32 | ssthresh: 4
+RX: ACK          seq=2000        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 34 | ssthresh: 4
+RX: ACK          seq=2008        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 36 | ssthresh: 4
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 18.0
+TX: DATA         seq=2008        bytes=8
+TX: DATA         seq=2016        bytes=8
+TX: DATA         seq=2024        bytes=8
+TX: DATA         seq=2032        bytes=8
+TX: DATA         seq=2040        bytes=8
+TX: DATA         seq=2048        bytes=8
+TX: DATA         seq=2056        bytes=8
+TX: DATA         seq=2064        bytes=8
+RX: ACK          seq=2016        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 18.0
+TX: DATA         seq=2072        bytes=8
+RX: ACK          seq=2032        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 24 | ssthresh: 18.0
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 12
+TX: DATA         seq=2032        bytes=8
+TX: DATA         seq=2040        bytes=8
+TX: DATA         seq=2048        bytes=8
+TX: DATA         seq=2056        bytes=8
+TX: DATA         seq=2064        bytes=8
+TX: DATA         seq=2072        bytes=8
+RX: ACK          seq=2040        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 12
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 8
+TX: DATA         seq=2040        bytes=8
+TX: DATA         seq=2048        bytes=8
+TX: DATA         seq=2056        bytes=8
+TX: DATA         seq=2064        bytes=8
+TX: DATA         seq=2072        bytes=8
+RX: ACK          seq=2056        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 8
+RX: ACK          seq=2064        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 20 | ssthresh: 8
+RX: TIMEOUT (Go-Back-N)
+(debug cc) EVENTO: TIMEOUT | Estado: SS | cwnd: 8 | ssthresh: 10.0
+TX: DATA         seq=2064        bytes=8
+TX: DATA         seq=2072        bytes=8
+RX: ACK          seq=2080        bytes=0
+(debug cc) EVENTO: ACK | Estado: SS | cwnd: 16 | ssthresh: 10.0
+TX: FIN          seq=2080        bytes=0
+RX: ACK+FIN      seq=2081        bytes=0
+TX: ACK          seq=2082        bytes=0
+TX: ACK          seq=2082        bytes=0
+TX: ACK          seq=2082        bytes=0
+TX: SYN          seq=47          bytes=0
+RX: SYN+ACK      seq=48          bytes=0
+TX: ACK          seq=49          bytes=0
+TX: DATA         seq=49          bytes=16
+RX: ACK          seq=65          bytes=0
+TX: DATA         seq=65          bytes=8
+TX: DATA         seq=73          bytes=8
+TX: DATA         seq=81          bytes=8
+TX: DATA         seq=89          bytes=8
+TX: DATA         seq=97          bytes=8
+TX: DATA         seq=105         bytes=8
+TX: DATA         seq=113         bytes=8
+TX: DATA         seq=121         bytes=8
+RX: ACK          seq=73          bytes=0
+TX: DATA         seq=129         bytes=1
+RX: ACK          seq=81          bytes=0
+RX: ACK          seq=89          bytes=0
+RX: ACK          seq=97          bytes=0
+RX: ACK          seq=105         bytes=0
+RX: ACK          seq=113         bytes=0
+RX: ACK          seq=121         bytes=0
+RX: ACK          seq=129         bytes=0
+RX: ACK          seq=130         bytes=0
+TX: FIN          seq=130         bytes=0
+RX: ACK+FIN      seq=131         bytes=0
+TX: ACK          seq=132         bytes=0
+TX: ACK          seq=132         bytes=0
+TX: ACK          seq=132         bytes=0
+TX: SYN          seq=64          bytes=0
+RX: TIMEOUT
+TX: SYN          seq=64          bytes=0
+RX: SYN+ACK      seq=65          bytes=0
+TX: ACK          seq=66          bytes=0
+TX: DATA         seq=66          bytes=16
+RX: ACK          seq=82          bytes=0
+TX: DATA         seq=82          bytes=8
+TX: DATA         seq=90          bytes=8
+TX: DATA         seq=98          bytes=8
+TX: DATA         seq=106         bytes=8
+TX: DATA         seq=114         bytes=8
+TX: DATA         seq=122         bytes=8
+TX: DATA         seq=130         bytes=8
+TX: DATA         seq=138         bytes=8
+RX: ACK          seq=90          bytes=0
+TX: DATA         seq=146         bytes=1
+RX: ACK          seq=106         bytes=0
+RX: ACK          seq=114         bytes=0
+RX: ACK          seq=122         bytes=0
+RX: ACK          seq=130         bytes=0
+RX: ACK          seq=138         bytes=0
+RX: ACK          seq=147         bytes=0
+TX: FIN          seq=147         bytes=0
+RX: ACK+FIN      seq=148         bytes=0
+TX: ACK          seq=149         bytes=0
+TX: ACK          seq=149         bytes=0
+TX: ACK          seq=149         bytes=0
